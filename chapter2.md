@@ -123,6 +123,11 @@ Nota: Este cuadro presenta la matriz C.A.M.E., utilizada para planificar accione
 En esta sección, entrevistaremos a parte de nuestro público objetivo para asi tener más de cerca algunos testimonios y poder trabajar en base a ellos.
 
 ### 2.2.1. Diseño de entrevistas
+<img src="assets/tecnico.jpg" alt="tecnico" style="width:100%">
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+<img src="assets/USUARIO.jpg" alt="USUARIO" style="width:100%">
 
 ### 2.2.2. Registro de entrevistas
 

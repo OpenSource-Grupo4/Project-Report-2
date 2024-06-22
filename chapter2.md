@@ -195,6 +195,16 @@ En esta sección, entrevistaremos a parte de nuestro público objetivo para asi 
 |- El 100% de los usuarios encuestados han recurrido a técnicos para reparar sus celulares. <br> - La satisfacción promedio con la atención del técnico es del 50%, con un 50% de usuarios satisfechos y un 50% insatisfechos. <br> - Ningún usuario intentó solucionar el problema por sí mismo. <br> - El 100% de los usuarios utilizan recomendaciones para elegir un técnico. <br> - El 100% de los usuarios no recibieron garantía después de la reparación. <br> - El rango de costo promedio de reparación es de 20 a 150 soles. <br> - El 100% de los usuarios no conocen una aplicación web similar. <br> - Las principales mejoras deseadas en la aplicación incluyen una mejor comunicación con el técnico, mayor transparencia en precios y tiempos de reparación, y la posibilidad de publicar fotos en los comentarios.|
 
 ### 2.2.3. Análisis de entrevistas
+|**`SEGMENTO OBJETIVO TÉCNICO(Miguel Huarcaya Chavez)`**|
+|---|
+|Miguel Huarcaya Chavez, un técnico de 21 años de Villa el Salvador, demuestra un enfoque centrado en el cliente y la calidad en su negocio de reparación de celulares. A través de su dedicación y compromiso, gestiona eficientemente las solicitudes de servicio, comunicando claramente los plazos y priorizando las reparaciones según su urgencia. Reconociendo los problemas comunes en los dispositivos, mantiene un inventario actualizado y establece precios justos, considerando tanto costos como esfuerzos. Su compromiso con la satisfacción del cliente se refleja en su disposición para rectificar cualquier insatisfacción y garantizar la seguridad durante las reparaciones. Además, muestra una actitud proactiva hacia la mejora de su negocio al considerar nuevas plataformas como TechHelp, sugiriendo características adicionales para satisfacer las necesidades de sus clientes y mejorar su servicio.|
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+
+|**`SEGMENTO OBJETIVO CLIENTE(Avril Zavala Perez/Elias Torres Espinoza )`**|
+|---|
+|Tanto Gabriela Avril Zavala Perez como Elias Torres Espinoza coinciden en que la calidad del servicio y la confianza en el técnico son elementos fundamentales al decidir dónde reparar sus dispositivos. Ambos han experimentado la importancia de elegir un servicio confiable, habiendo tenido experiencias negativas con técnicos que no cumplieron con sus expectativas. Para ellos, pagar un precio justo por un servicio de calidad es preferible a opciones más económicas que puedan resultar en problemas futuros. Además, valoran la especialización del técnico y el uso de piezas exactas en las reparaciones, así como la garantía ofrecida después del servicio, lo que indica una preocupación por la satisfacción del cliente por parte del técnico. En resumen, la calidad, confianza y garantía son los principales criterios que influyen en la elección de un técnico para la reparación de dispositivos móviles.|
 
 ## 2.3. Needfinding
 

@@ -208,7 +208,19 @@ En esta sección, entrevistaremos a parte de nuestro público objetivo para asi 
 
 ## 2.3. Needfinding
 En esta sección se presentarán los resultados del proceso de recolección de información llevado a cabo en los segmentos objetivo, culminando en la elaboración de User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
+
 ### 2.3.1. User Personas
+Esta sección del informe presenta perfiles ficticios basados en grupos de interés entrevistados. Contienen información demográfica, personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de comportamiento, respaldados por entrevistas previas y elaborados con UXPressia.
+
+|**`USER EMPATHY MAPPING: TÉCNICO`**|
+|---|
+|<img src="assets/USER_TECNICO.png" alt="PULSE" style="width:100%">|
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+|**`USER EMPATHY MAPPING: CLIENTE`**|
+|---|
+|<img src="assets/USER_CLIENTE.png" alt="PULSE" style="width:100%">|
 
 ### 2.3.2. User Task Matrix
 

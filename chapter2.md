@@ -223,6 +223,101 @@ Esta sección del informe presenta perfiles ficticios basados en grupos de inter
 |<img src="assets/USER_CLIENTE.png" alt="PULSE" style="width:100%">|
 
 ### 2.3.2. User Task Matrix
+En User Task Matrix, hemos detectado las acciones llevadas a cabo por nuestros dos grupos y hemos evaluado la relevancia de cada una de estas actividades para cada grupo. 
+                     
+<table>
+    <thead>
+        <tr>
+            <th>Segmento objetivo</th>
+            <th colspan="2">Julia Alejandra Carbajal - Cliente</th>
+            <th colspan="2">Miguel Julio Sandoval - Técnico</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Tareas</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+        <tr>
+            <td>Buscar un sitio con buenos técnicos</td>
+            <td>Siempre</td>
+            <td>Media</td>
+            <td>Rara vez</td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td>Elegir un técnico confiable</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>Nunca</td>
+            <td>Media</td>
+        </tr>   
+        <tr>
+            <td>Considerar que componente usar para la reparación</td>
+            <td>Rara vez</td>
+            <td>Media</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Recoger el celular reparado</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>A menudo</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Comprar los componentes para reparar el celular</td>
+            <td>Rara vez</td>
+            <td>Alta</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Determinar problema de celular </td>
+            <td>Rara vez</td>
+            <td>Alta</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Reparar celular </td>
+            <td>Nunca</td>
+            <td>Alta</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Entregar celular a tiempo </td>
+            <td>Nunca</td>
+            <td>Alta</td>
+            <td>A veces</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Determinar precio de reparación</td>
+            <td>Nunca</td>
+            <td>Baja</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>      
+    </tbody>
+</table>  
+
+Mediante el User Task Matrix, podemos discernir las frecuencias y relevancias entre las distintas Personas del Usuario que presentamos, lo cual nos proporciona una guía útil.
+
+<img src="assets/TECNICOS.jpg" alt="TEC" style="width:100%;">
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+<img src="assets/CLIENTES.jpg" alt="CLI" style="width:100%;">
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+<img src="assets/DIFERENCIAS.jpg" alt="DIF" style="width:100%;">
 
 ### 2.3.3. User Journey Mapping
 

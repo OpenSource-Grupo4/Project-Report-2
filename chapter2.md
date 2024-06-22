@@ -320,6 +320,16 @@ Mediante el User Task Matrix, podemos discernir las frecuencias y relevancias en
 <img src="assets/DIFERENCIAS.jpg" alt="DIF" style="width:100%;">
 
 ### 2.3.3. User Journey Mapping
+En esta sección, se detallan los mapas de viaje del usuario para cada persona del usuario, cliente y técnico. Se describen los pasos desde la búsqueda de un técnico hasta la recolección del dispositivo reparado, destacando metas, desafíos y procesos clave desde la perspectiva del cliente. Desde el punto de vista del técnico, se enfoca en atraer clientes, diagnosticar y brindar servicios de reparación con el objetivo de crear una experiencia positiva y ganar confianza.
+|**`USER JOURNEY MAPPING: TÉCNICO`**|
+|---|
+|<img src="assets/JOURNEY-TECNICO.jpeg" alt="AS-TECNICO" style="width:100%">|
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+|**`USER JOURNEY MAPPING: CLIENTE`**|
+|---|
+|<img src="assets/JOURNEY-CLIENTE.png" alt="AS-CLIENTE" style="width:100%">|
 
 ### 2.3.4. Empathy Mapping
 

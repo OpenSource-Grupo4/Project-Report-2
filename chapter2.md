@@ -356,3 +356,14 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
 |<img src="assets/AS-CLIENTE.jpg" alt="AS-CLIENTE" style="width:100%">|
 
 ## 2.4. Ubiquitous Language
+```
+Customer (Cliente):
+
+Person who searches for our application through their mobile phone, computer or other electronic device to solve specific technological problems or improve their efficiency in certain areas.
+(Persona la cual busca nuestra aplicación por medio de su teléfono móvil, computadora u otro dispositivo electrónico para resolver problemas tecnológicos específicos o mejorar su eficiencia en ciertas áreas.)
+
+Technical (Técnico):
+
+Person who has experience and specialized knowledge in software development and is responsible for creating digital solutions to meet the technological needs of clients.
+(Persona que posee experiencia y conocimientos especializados en el desarrollo de software y se encarga de crear soluciones digitales para satisfacer las necesidades tecnológicas de los clientes.)
+```

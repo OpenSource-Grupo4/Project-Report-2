@@ -120,6 +120,7 @@
 
 Nota: Este cuadro presenta la matriz C.A.M.E., utilizada para planificar acciones basadas en el análisis de fortalezas, debilidades, oportunidades y amenazas.
 ## 2.2. Entrevistas
+En esta sección, entrevistaremos a parte de nuestro público objetivo para asi tener más de cerca algunos testimonios y poder trabajar en base a ellos.
 
 ### 2.2.1. Diseño de entrevistas
 

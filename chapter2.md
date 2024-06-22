@@ -207,7 +207,7 @@ En esta sección, entrevistaremos a parte de nuestro público objetivo para asi 
 |Tanto Gabriela Avril Zavala Perez como Elias Torres Espinoza coinciden en que la calidad del servicio y la confianza en el técnico son elementos fundamentales al decidir dónde reparar sus dispositivos. Ambos han experimentado la importancia de elegir un servicio confiable, habiendo tenido experiencias negativas con técnicos que no cumplieron con sus expectativas. Para ellos, pagar un precio justo por un servicio de calidad es preferible a opciones más económicas que puedan resultar en problemas futuros. Además, valoran la especialización del técnico y el uso de piezas exactas en las reparaciones, así como la garantía ofrecida después del servicio, lo que indica una preocupación por la satisfacción del cliente por parte del técnico. En resumen, la calidad, confianza y garantía son los principales criterios que influyen en la elección de un técnico para la reparación de dispositivos móviles.|
 
 ## 2.3. Needfinding
-
+En esta sección se presentarán los resultados del proceso de recolección de información llevado a cabo en los segmentos objetivo, culminando en la elaboración de User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping.
 ### 2.3.1. User Personas
 
 ### 2.3.2. User Task Matrix

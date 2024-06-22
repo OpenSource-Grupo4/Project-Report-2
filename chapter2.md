@@ -344,5 +344,15 @@ Esta sección presenta el mapeo de empatía para los segmentos de cliente y téc
 |<img src="assets/EMPATHY-CLIENTE.png" alt="AS-CLIENTE" style="width:100%">|
 
 ### 2.3.5. As-is Scenario Mapping
+En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User Persona, destacando el proceso de preparación, lluvia de ideas individual, revisión y identificación de fases. Se incluyen las filas Phases, Doing, Thinking y Feeling, con áreas positivas, negativas y blank areas para usuarios. El objetivo es proporcionar una visualización detallada del proceso actual y áreas de mejora para cada persona del usuario.
+|**`AS-IS SCENARIO MAPPING: TÉCNICO`**|
+|---|
+|<img src="assets/AS-TECNICO.jpg" alt="AS-TECNICO" style="width:100%">|
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+|**`AS-IS SCENARIO MAPPING: CLIENTE`**|
+|---|
+|<img src="assets/AS-CLIENTE.jpg" alt="AS-CLIENTE" style="width:100%">|
 
 ## 2.4. Ubiquitous Language

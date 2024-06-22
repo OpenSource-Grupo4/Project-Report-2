@@ -332,6 +332,16 @@ En esta sección, se detallan los mapas de viaje del usuario para cada persona d
 |<img src="assets/JOURNEY-CLIENTE.png" alt="AS-CLIENTE" style="width:100%">|
 
 ### 2.3.4. Empathy Mapping
+Esta sección presenta el mapeo de empatía para los segmentos de cliente y técnico, ofreciendo una visión detallada de las necesidades, preocupaciones y beneficios desde la perspectiva del usuario. Esto facilita la creación de perfiles detallados y contribuye a desarrollar un artefacto centrado en las necesidades reales, crucial para el proceso de Needfinding.
+|**`AS-IS SCENARIO MAPPING: TÉCNICO`**|
+|---|
+|<img src="assets/EMPATHY-TECNICO.png" alt="AS-TECNICO" style="width:100%">|
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
+|**`AS-IS SCENARIO MAPPING: CLIENTE`**|
+|---|
+|<img src="assets/EMPATHY-CLIENTE.png" alt="AS-CLIENTE" style="width:100%">|
 
 ### 2.3.5. As-is Scenario Mapping
 

@@ -113,7 +113,12 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+| Matriz F.O.D.A. y C.A.M.E. | Oportunidades<br>El mercado cuenta con una amplia base de clientes potenciales. Los servicios técnicos tienen necesidades de organización. | Amenazas<br>Presencia de competidores reconocidos. Competidores con una larga trayectoria en el mercado. |
+| - | - | - |
+| Fortalezas<br>Concepto innovador. Diseño intuitivo y adaptable a múltiples plataformas. Gratuidad para los usuarios. Tarifas asequibles para los servicios técnicos asociados. | Estrategia Ofensiva<br>Implementar un chat de comunicación con técnicos que sea fácil e interactivo, mejorando la experiencia del usuario. Garantizar la compatibilidad de la plataforma con diversos sistemas operativos como Android, iOS y versión web para ampliar su accesibilidad. Explorar diferentes modelos de precios basados en el número de servicios técnicos afiliados. | Estrategia Defensiva<br>Investigar y perfeccionar la idea innovadora para diferenciarse de productos similares, como los de Apple. Desarrollar interfaces para varios sistemas operativos, en contraposición a otras empresas que se centran en una sola plataforma. |
+| Debilidades<br>Falta de experiencia en el mercado. Conocimiento limitado en algunas áreas tecnológicas. | Estrategia de Reorientación<br>Aprovechar la gran cantidad de usuarios del mercado para validar y mejorar el diseño del producto. Adquirir conocimientos sobre las necesidades de los técnicos y diseñar la plataforma teniendo en cuenta las tecnologías necesarias para facilitar su uso tanto para técnicos como para usuarios. | Estrategia de Supervivencia<br>Lanzar campañas de marketing destacando nuestra propuesta única que agrega valor tanto para clientes como para técnicos. |
 
+Nota: Este cuadro presenta la matriz C.A.M.E., utilizada para planificar acciones basadas en el análisis de fortalezas, debilidades, oportunidades y amenazas.
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas

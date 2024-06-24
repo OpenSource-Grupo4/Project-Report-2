@@ -29,7 +29,17 @@ El servicio se ofrece de forma gratuita para usuarios finales, mientras que los 
 ### 1.2.2 Lean UX Process
 
 #### 1.2.2.1. Lean UX Problem Statements
+**Problema 1:** Los profesionales de reparación y soporte para dispositivos móviles tienen dificultades para generar confianza en los clientes debido a estafas frecuentes perpetradas por individuos malintencionados que se hacen pasar por técnicos legítimos. La falta de visibilidad en plataformas como sitios web o redes sociales limita su capacidad para recibir respaldo y recomendaciones de clientes satisfechos, lo que podría afectar negativamente la reputación y la viabilidad de sus negocios.
 
+- **Pregunta clave:** ¿Cómo podemos apoyar a las personas que buscan servicios técnicos para sus smartphones a descubrir centros de reparación de celulares confiables y evitar aquellos que sean fraudulentos, asegurando así la reputación y el crecimiento de los negocios de los técnicos?
+
+**Problema 2:** Los profesionales de reparación y soporte para dispositivos móviles enfrentan desafíos en la gestión de múltiples equipos de clientes, lo que puede resultar en una falta de organización durante el servicio. La carencia de un sistema eficiente para gestionar el orden de llegada de los dispositivos de los clientes impacta negativamente en la eficiencia del servicio, lo que podría afectar la satisfacción del cliente y la rentabilidad del negocio.
+
+- **Pregunta clave:** ¿Cómo mejorar la eficiencia en la gestión de dispositivos de clientes para técnicos de reparación y soporte de celulares, garantizando así una experiencia de servicio fluida y satisfactoria para los clientes y optimizando la rentabilidad del negocio?
+
+**Problema 3:** Los usuarios de servicios de reparación de teléfonos móviles encuentran dificultades en la comunicación con los técnicos, y los teléfonos reparados a menudo presentan problemas nuevamente debido a un servicio deficiente en el proceso de reparación. La necesidad de realizar múltiples visitas al centro técnico para obtener información sobre el progreso de la reparación de sus teléfonos celulares afecta la experiencia del usuario y puede generar frustración y desconfianza.
+
+- **Pregunta clave:** ¿Cómo garantizar que los usuarios encuentren servicios de reparación de teléfonos celulares seguros, mejoren la eficiencia en la comunicación con los técnicos y obtengan reparaciones de calidad en la primera visita, mejorando así su experiencia y confianza en el servicio?
 #### 1.2.2.2. Lean UX Assumptions
 #### Suposiciones del Usuario:
 

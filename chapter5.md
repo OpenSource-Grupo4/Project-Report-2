@@ -1246,6 +1246,68 @@ Para la sección de validación de segmentos objetivo, se deben establecer los e
 |Javier Arce, un técnico de celulares de 22 años que reside en Chorrillos, Lima, destacó varios aspectos positivos de la plataforma en su entrevista. En su tiempo libre, disfruta de tocar la guitarra y jugar videojuegos. Javier encontró la aplicación web intuitiva y fácil de navegar, con una interfaz agradable y bien organizada. Le llamó la atención el dashboard interactivo, el analytics detallado y la gestión de tareas, considerándolos extremadamente útiles para su trabajo. No experimentó ninguna dificultad técnica y sugirió la incorporación de una función de chat en tiempo real y una sección de FAQs para mejorar la eficiencia. Javier elogió la distribución de la interfaz, que facilita el acceso rápido a herramientas necesarias, y sugirió la adición de tutoriales interactivos y mayor personalización del perfil de usuario para mejorar aún más la plataforma. En general, Javier tuvo una experiencia muy positiva con la aplicación y ve un gran potencial en ella.|
 
 ### 5.3.3. Evaluaciones según heurísticas
+# EVALUACIÓN DE USABILIDAD
+
+## SITE O APP A EVALUAR:
+Nombre de App
+
+## TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de un usuario nuevo
+2. Publicación de un post
+3. Búsqueda de un paquete turístico
+4. Reserva de un viaje
+5. Cancelación de una reserva
+6. Agregar ítems a un pedido
+7. Pago de un paquete turístico
+8. Etc.
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Compartir reservas entre usuarios
+2. Presentar ofertas de último minuto
+3. Administrar puntos del programa de fidelización de viajes
+4. Guardar "alerta de paquetes"
+5. Etc.
+
+## ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario u ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o se puede dar en situaciones que pueden superar al usuario. Se le deberían asignar prioridades de corrección en una próxima release. |
+| 3     | Problema mayor: ocurre frecuentemente, no se puede superar fácilmente por los resolvers. Es importante que sea corregido y se le debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error que impide al usuario seguir adelante con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+## TABLA RESUMEN:
+
+| #  | Problema                                                                 | Escala de severidad | Heurística/Principio violado(a)                            |
+|----|--------------------------------------------------------------------------|---------------------|-----------------------------------------------------------|
+| 1  | No hay un control que permita regresar a la tienda durante el trámite de compra | 3                   | Usability: Libertad y control del usuario                  |
+| 2  | Se repiten constantemente algunas opciones                              | 2                   | Usability: Consistencia y estándares                       |
+| 3  | Imágenes sin atributo "alt"                                              | 3                   | Inclusive Design: Proporciona experiencias comparables     |
+| 4  | Incluye un botón "Ver más" pero no existe contenido al que dirigirse     | 2                   | Information Architecture: ¿Es usable?                      |
+| 5  | No incluye información de los planes de servicio                        | 2                   | Information Architecture: ¿Es findable?                    |
+| ...| ...                                                                      | ...                 | ...                                                       |
+
+## DESCRIPCIÓN DE PROBLEMAS:
+
+### PROBLEMA #1: No hay un control que permita regresar a la tienda durante el trámite de compra
+**Severidad:** 3  
+**Heurístico violado:** Usabilidad - Libertad y control del usuario  
+
+**Problema:**  
+Al momento de ingresar nuestros datos, no podemos regresar a la tienda en caso de los mismos ya estén llenos. Puede resultar frustrante para el usuario si necesita verificar algún dato de la tienda, ya que no hay una opción visible para regresar sin perder los datos ingresados.
+
+**Notas adicionales:**  
+(Incluir una captura de pantalla ilustrando el problema).
+
+**Recomendaciones:**  
+Incluir un botón o enlace que permita que los usuarios realizar dicho trámite, y regresar a la tienda en una ventana aparte para no perder los datos ingresados durante el proceso de compra.
+
+### PROBLEMA #2: ...
+
+
 
 ## 5.4. Video About-the-Product
 - **Link del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXkra-WHHpNBrWiD5hciA_sBRZO2OW_ZnWNupxCMc-8n-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CwnWmh

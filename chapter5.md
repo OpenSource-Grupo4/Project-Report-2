@@ -522,13 +522,231 @@ En esta entrega, nuestra meta principal fue la implementación de la Landing Pag
 
 --------------
 ### 5.2.2. Sprint 2
+En el segundo sprint, empezamos a construir nuestra aplicación web avanzando con las tareas definidas en las historias de usuario, siguiendo el orden establecido en la lista de pendientes del producto. La suma total de puntos asignados a estas historias de usuario es de 21.
 
+|**FrontEnd Repository:** https://github.com/OpenSource-Grupo4/techelp-frontend|
+|-----|
+|**FrontEnd Deployed:** https://techelp-front.web.app/login|
+|<img src="assets/NetworkFront.png" alt="netfront" style="width:100%;">|
 #### 5.2.2.1. Sprint Planning 2
-
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/05/01</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:00 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>Santiago Olivera</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Raul Quispe, Alexis Vargas, Lorenzo Navarro
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                La opinion del product owner y las partes interesadas con respecto al avance realizado al concluir el sprint 3  fue el esperado.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+                En el sprint 2 se pudo mejorar aspectos de eficiencia en algunos componentes y la organización de la arquitectura del front-end de la aplicación web 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                Concluir y mejorar las intefaces de la aplicación web, levantado las observaciones del sprint 3. Implementar las tablas para membreship y la capa de seguridad. 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                30
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                29
+            </td>
+        </tr>
+    </tbody>
+</table>
 #### 5.2.2.2. Sprint Backlog 2
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
 
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US12	Visualiza  perfil </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Realizar componente del perfil del técnico</td>
+    <td align="justify"> Se define la estructura o template del componente y los estilos para tener similitud con el prototipo.</td>
+    <td align="center"> 3 </td>
+    <td align="center"> Alexis Vargas</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Obtener técnico por id </td>
+    <td align="center"> Se desarrollará una funcionalidad para obtener el objeto que coincida con el id del técnico seleccionado por el usuario.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Santiago Olivera</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Rutas de acceso</td>
+    <td align="center"> Se definen las rutas de acceso desde el componente Búsqueda de técnicos </td>
+    <td align="center"> 1</td>
+    <td align="center"> Raul Quispe</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Rutas de salida.</td>
+    <td align="center"> Se define las rutas de salida hacia el request de los datos del cliente y agendar una solicitud de reparación.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Gonzalo Zavala</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US10	Buqueda de tecnicos</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Definir componente para la búsqueda de técnicos</td>
+    <td align="justify"> Se definirá el template del componente y los estilos que requiera para tener similitud con el mock up</td>
+    <td align="center"> 4</td>
+    <td align="center"> Gonzalo Saldaña</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Implementar servicio para datos de los técnicos</td>
+    <td align="justify"> Se desarrolla un servicio que implementa un Fake Api para mostrar la información de los técnicos, tal como nombre, calificación, y la foto del mismo.</td>
+    <td align="center"> 2</td>
+    <td align="center"> Santiago Olivera</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Definir rutas para acceder al componente Búsqueda de técnicos</td>
+    <td align="justify"> Se define una ruta para el componente búsque de técnicos desde el componente principal Home. Así mismo se defina un link de ruta para el componente del perfil del técnico.</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Santiago Olivera</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US02	Solicitar reparación de celular</td>
+    <td align="center"> TA01 </td>
+    <td align="center">Implementar Label </td>
+    <td align="center"> Se implementa en angular CLI el codigo en htlm para cada label definido con anterioridad.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Alexis Vargas</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Validacion de Label</td>
+    <td align="center"> Se valida cada label en el apartado de components.ts</td>
+    <td align="center"> 1</td>
+    <td align="center"> Raúl Quispe</td>
+    <td align="center"> Done</td>
+  </tr>
+ 
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Implementacion de Css</td>
+    <td align="center"> En el apartado css del componente request se implementa el diseño de los labels</td>
+    <td align="center"> 1</td>
+    <td align="center"> Alexis Vargas</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Implementacion de ruta a home</td>
+    <td align="center">En el apartado routing realizo las rutas necesarias para conectar las paginas  </td>
+    <td align="center"> 2</td>
+    <td align="center"> Raúl Quispe</td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
 #### 5.2.2.3. Development Evidence for Sprint Review
+Se crearon 4 brands: Main, Development, Feature y Feature 2. En el Developer branch es donde convergen los cambios hechos en el Feature , que van desde cambios pequeños a cambios más profundos como la eliminación de componentes repetidos de la entrega anterior, asi mismo, se agrego Angular Material en los Formularios que no contaban con este. 
 
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="27" align="center"> https://github.com/OpenSource-Grupo4/techelp-frontend </td>
+    <td align="center"> main</td>
+    <td align="center"> id commit</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> 01/05/2024</td>
+  </tr>
+
+</table>
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.2.5. Execution Evidence for Sprint Review

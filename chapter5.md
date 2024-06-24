@@ -271,7 +271,172 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
     </tbody>
 </table>
 #### 5.2.1.2. Sprint Backlog 1
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
 
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US1: Navegar libremente por la Landing Page </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir lista de etiquetas</td>
+    <td align="justify"> Se añadirán las etiquetas de home, services, membreship, contac-us, about-us.</td>
+    <td align="center"> 1 </td>
+    <td align="center"> Raúl Ronaldo Quispe Erasmo</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Vincular las secciones </td>
+    <td align="center"> se determina la esturctura e IDs de las secciones y se vincula las etiquetas a estas para luego comenzar a codificar estas</td>
+    <td align="center"> 1</td>
+    <td align="center"> Raúl Ronaldo Quispe Erasmo</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Añadir Logo y estilos del nav</td>
+    <td align="center"> Se añede el logo de la solución planteada y se implementa los estilos del toolbar </td>
+    <td align="center"> 3</td>
+    <td align="center"> Raúl Ronaldo Quispe Erasmo</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> Añadir botones de modo oscuro e idioma.</td>
+    <td align="center"> Se añeden los botones de cambio de idioma y boton de modo oscuro para hacerlo mas agaradable al posible usuario</td>
+    <td align="center"> 2</td>
+    <td align="center"> Raúl Ronaldo Quispe Erasmo</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US2: Apartado de contacto con el Startup</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir título y descripción</td>
+    <td align="justify"> Se añadirá el tiítulo correspodniente a la sección a realizar y redactar una oración inivitando a las personas a escribirnos</td>
+    <td align="center"> 2</td>
+    <td align="center"> Manuel Alexis Vargas Quispe</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Añadir formulario</td>
+    <td align="justify"> Se añadirá un formulario donde los usuarios objetivos deben ingresas sus nombres, medio de contacto y una descripción sobre la duda que tienen</td>
+    <td align="center"> 1</td>
+    <td align="center"> Manuel Alexis Vargas Quispe</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Añadir botón de enviar, imagen y estilos</td>
+    <td align="justify"> Se añadirá una imagen llamativa sobre lo que ofrece nuestro software, se implementará un botón para enviar el contenido del formulario y se agregarán los estilos correspondientes. </td>
+    <td align="center"> 3 </td>
+    <td align="center"> Manuel Alexis Vargas Quispe</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="2" align="center"> ID </td>
+    <td rowspan="2" align="center"> US3: Beneficios de la aplicación</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Se añadirá el titulo y descripción de la sección</td>
+    <td align="center"> Se añadirá una pregunta a modo de título (¿Por qué TecHelp?), descripciónes incitando a que usen nuestra solucón y lo que ofrece para cada tipo de posible usuario</td>
+    <td align="center"> 1</td>
+    <td align="center"> Santiago Olivera Guerra</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Organizar las beneficios en dos card</td>
+    <td align="center"> Se organizará el contenido de la seccion de beneficios mediante cards para cada segmento objetivo</td>
+    <td align="center"> 2</td>
+    <td align="center"> Santiago Olivera Guerra</td>
+    <td align="center"> Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US4: Mostrar los planes disponibles</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Añadir título y decripción</td>
+    <td align="center"> Se añade el título a manera de pregunta para captar la atención de nuestros posibles usuarios e invitamos a suscribirce a a nuestros planes </td>
+    <td align="center"> 3</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Cards para organizar las membresias</td>
+    <td align="center"> Se agregarán cards para organizar la información de las membreisas e invitar a que sean parte de nostros con botones para suscribirse</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Botones de suscripciones y estilos de seccion</td>
+    <td align="center"> Se añadirán las botones correspondientes a cada tipo de membresia y además se ñadirán los estilos correspondientes para que la sección sea más consistente</td>
+    <td align="center"> 2</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center"> Done</td>
+  </tr>
+
+   <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center">  US5: Información del startup</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> Titulo y descripción</td>
+    <td align="center"> Se agregará un título para diferenciar la sección y los estilos corresponidentes para distinguir una sección de la otra.</td>
+    <td align="center"> 1</td>
+    <td align="center"> Manuel Alexis Vargas Quispe</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> Descripción de integrantes</td>
+    <td align="center"> Se agregará una descripción breve de los integrante del equipo que se está dedicando al proceso de desarrollo de la solución </td>
+    <td align="center"> 2</td>
+    <td align="center"> Raúl Ronaldo Quispe Erasmo</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> Organizar el contenido en cards</td>
+    <td align="center"> Se agregarán los estilos correspondientes para separar cada integrante en cards para tener una mejor organización y cisualización de las mismas</td>
+    <td align="center"> 3</td>
+    <td align="center"> Gonzalo Andre Zavala Quedena</td>
+    <td align="center"> Done</td>
+  </tr>
+</table>
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review

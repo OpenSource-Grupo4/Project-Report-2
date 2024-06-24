@@ -438,7 +438,42 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
   </tr>
 </table>
 #### 5.2.1.3. Development Evidence for Sprint Review
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
 
+  <tr>
+    <td rowspan="16" align="center"> https://github.com/OpenSource-Grupo4/LandingPageTechHelpG4.github.io </td>
+    <td align="center"> main</td>
+    <td align="center"> 03ba6df</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/05/2024</td>
+  </tr>
+  
+  <tr>
+    <td align="center"> Feature </td>
+    <td align="center"> ebc15fe</td>
+    <td align="center"> Feat: Update index.html</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/05/2024</td>
+  </tr>
+
+  <tr>
+    <td align="center"> developer</td>
+    <td align="center"> 434dd58</td>
+    <td align="center"> Feat: developer to main</td>
+    <td align="center"> ---</td>
+    <td align="center"> 18/05/2024</td>
+  </tr>
+
+</table>
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.1.5. Execution Evidence for Sprint Review

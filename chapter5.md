@@ -597,6 +597,7 @@ En el segundo sprint, empezamos a construir nuestra aplicación web avanzando co
         </tr>
     </tbody>
 </table>
+
 #### 5.2.2.2. Sprint Backlog 2
 <table>
   <tr>
@@ -724,6 +725,7 @@ En el segundo sprint, empezamos a construir nuestra aplicación web avanzando co
     <td align="center"> Done</td>
   </tr>
 </table>
+
 #### 5.2.2.3. Development Evidence for Sprint Review
 Se crearon 4 brands: Main, Development, Feature y Feature 2. En el Developer branch es donde convergen los cambios hechos en el Feature , que van desde cambios pequeños a cambios más profundos como la eliminación de componentes repetidos de la entrega anterior, asi mismo, se agrego Angular Material en los Formularios que no contaban con este. 
 
@@ -747,7 +749,21 @@ Se crearon 4 brands: Main, Development, Feature y Feature 2. En el Developer bra
   </tr>
 
 </table>
+
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
+Una vez finalizado el sprint 2, conseguimos desarrollar y poner en funcionamiento la sección de búsqueda de servicios técnicos, así como la visualización del perfil de un centro técnico y la capacidad de solicitar servicio de reparación para teléfonos móviles.
+
+|**`EVIDENCIAS`**|
+|-|
+|**NOMBRE DE LA SECCIÓN**|
+|Home - Se presenta la sección "Home", que incluye el navbar con el cual el usuario puede navegar por la pagina.|
+|<img src="assets/HomeAngular.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|Visualizar perfil - Se presenta la sección donde el usuario puede visualizar el perfil del tecnico con una reseña y su ubicación.|
+|<img src="assets/Vis_tecnico.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|Solicitar servicio - Se presanta la opcion  la cual el cliente puede solicitar el servicio a un tecnico y rellenar la información pedida de la peticion.|
+|<img src="assets/Support.png" alt="BARRA SEPARADORA" style="width:100%">|
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 

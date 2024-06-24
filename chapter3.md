@@ -47,5 +47,6 @@ En este apartado se muestran las historias de usuario correspondientes a las fun
 | US19          | Información del startup             | Como usuario, deseo obtener información sobre los miembros del equipo de desarrollo del Startup para conocer mejor a los creadores de la aplicación web.                                              | **Escenario 1: Visualizar información de los miembros**<br>Al acceder a la sección de "About Us" en la aplicación o sitio web<br>Debería encontrar una lista de los integrantes del Startup, con sus nombres, roles y una breve descripción de sus perfiles<br>La información sobre los miembros debe ser fácil de encontrar y navegar| EP06|
 | US20          | Mostrar los planes disponibles      | Como usuario, deseo conocer los planes ofrecidos para evaluar si alguno se adapta a las necesidades de mi negocio.                                            | **Escenario 1: Consultar información sobre los beneficios de la membresía**<br>Al acceder a la sección de "Membership" en la aplicación<br>Debería encontrar una descripción clara y detallada de los beneficios de obtener la membresía| EP06 |
 ## 3.3. Impact Mapping
-
+El Impact Map nos brinda la oportunidad de visualizar la meta, los efectos deseados en los usuarios, los caminos para alcanzar esos efectos y las historias de usuario necesarias para lograr dichos objetivos.
+<img src="assets/Impact_Cliente-Tecnico.jpg" alt="BARRA SEPARADORA" style="width:100%">
 ## 3.4. Product Backlog

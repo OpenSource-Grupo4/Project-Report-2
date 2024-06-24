@@ -1179,7 +1179,20 @@ En esta etapa, el equipo se propone abordar las observaciones proporcionadas por
 ## 5.3. Validation Interviews
 
 ### 5.3.1. Diseño de Entrevistas
+- **Nombre y edad:** ¿Cuál es tu nombre completo y cuántos años tienes?
+- **Lugar de residencia:** ¿En qué lugar vives actualmente?
+- **Ocupación:** ¿Cuál es tu ocupación principal?
+- **Estado civil y familia:** ¿Cuál es tu estado civil, tienes hijos actualmente?
+- **Intereses personales:** ¿Qué actividades disfrutas en tu tiempo libre?
 
+1. ¿Qué apartados o funcionalidades te llamaron más la atención en nuestra plataforma?
+2. ¿Cómo describirías tu experiencia inicial al utilizar nuestra aplicación web? ¿Te resulta sencillo el flujo de actividades para conseguir un objetivo dentro de la plataforma?
+3. ¿Qué opinas de la interfaz de usuario de la aplicación web? ¿Te gusta la distribución que tendrán los tecnicos para trabajar con la plataforma?
+4. ¿Has tenido alguna dificultad técnica o encontraste algún problema mientras navegabas por la aplicación web?
+5. ¿Qué características o funcionalidades adicionales te gustaría ver en la aplicación web?
+6. ¿Qué te parece la opciones "analytichs", "Dashboard", "Tasks"? ¿Lo consideras beneficioso?
+7. ¿El landing page te parece intuitivo?
+8. ¿Tienes alguna otra sugerencia o comentario que quieras compartir con nosotros?
 ### 5.3.2. Registro de Entrevistas
 |***Entrevista***|***1***|
 |---------|----------|

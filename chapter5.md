@@ -1181,6 +1181,23 @@ En esta etapa, el equipo se propone abordar las observaciones proporcionadas por
 ### 5.3.1. Diseño de Entrevistas
 
 ### 5.3.2. Registro de Entrevistas
+|***Entrevista***|***1***|
+|---------|----------|
+|Nombre completo|Enrique Paredes|
+|Edad|25 años|
+|Distrito|Surco|
+|Screenshot de video|<img src="assets/ENRIQUE.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EQJTRnb2czBIgPmpCsJFZqYBELOAcas9s0PgKHzUOgeeFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lxAYt6)|
+|Entrevista entre los minutos|06:07 - 11:02|
+|Resumen de la entrevista|Enrique Paredes, un arquitecto de Lima, encuentra la plataforma intuitiva y valora especialmente el apartado de "Tasks", sugiere la integración con el celular para recibir notificaciones sobre el progreso del trabajo y la disponibilidad del técnico.|
+|Tipo de Usuario|Cliente|
+
+|**`SEGMENTO OBJETIVO CLIENTE(Enrique Paredes)`**|
+|---|
+|Enrique Paredes, un arquitecto de 25 años de Lima, Surco, disfruta de ver películas e ir al gimnasio en su tiempo libre. A través de nuestra plataforma, ha tenido una experiencia inicial positiva, encontrando el flujo de actividades sencillo y la interfaz excelente. Le ha llamado la atención especialmente el apartado de "Tasks". No ha tenido problemas técnicos mientras navegaba. Sugiere la integración con el celular para recibir notificaciones sobre el progreso del trabajo del técnico y ser alertado cuando esté libre.|
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
 |***Entrevista***|***2***|
 |---------|----------|
 |Nombre completo|Mariel Anicama|

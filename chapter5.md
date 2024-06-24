@@ -177,7 +177,26 @@ En el contexto de las pruebas, es aceptable ignorar una excepción detectada sin
 |En TypeScript, se recomienda que las variables se declaren en minúsculas y se especifique el tipo de dato utilizando dos puntos después del nombre de la variable. Aquí tienes ejemplos de cómo declarar y asignar valores a variables en TypeScript:|
 |<img src="assets/7.6.png" alt="Timbrit" style="width:100%;">|
 ### 5.1.4. Software Deployment Configuration
+Como mencionamos previamente, la gestión de nuestro código fuente se realizará a través de GitHub. Además, para la publicación y despliegue de la página, aprovecharemos GitHub Pages.
 
+En relación con el desarrollo de la página de inicio de TecHelp, hemos utilizado las siguientes herramientas:
+
+|**`SOFTWARE DEPLOYMENT CONFIGURATION`**|
+|-|
+|**HTML:** Es el lenguaje de marcado que hemos utilizado para estructurar nuestro Landing Page|
+|<img src="assets/html_5.1.4.png" alt="Timbrit" style="width:100%;">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="Timbrit" style="width:100%;">|
+|**CSS:** Nos ayudó con la parte de diseño de interface para que esta sea interactubale con los visitantes de la Langding Page.|
+|<img src="assets/css_5.1.4.png" alt="Timbrit" style="width:100%;">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="Timbrit" style="width:100%;">|
+|**git:** Git es un sistema de control de versiones diseñado para optimizar la eficiencia y la compatibilidad de versiones. Esta herramienta desempeñó un papel fundamental en nuestra colaboración en equipo durante el desarrollo de la Landing Page.|
+|<img src="assets/logo_git.png" alt="Timbrit" style="width:100%;">|
+
+|**`HERRAMIENTA`**|**`DESCRIPCIÓN`**|**`LOGO`**|
+|-----|-----|----|
+|**GitHub**|Plataforma de desarrollo colaborativo.|<img src="assets/github.jpg" alt="AyFix" style="width:100%;">|
+|**Git Flow**|Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page.|<img src="assets/flow.jpg" alt="Timbrit" style="width:100%;">|
+|**Git Hub Pages**|Servicio de Github que nos permitió alojar nuestra lading page.|<img src="assets/pages.jpg" alt="Helpers" style="width:100%;">|
 ## 5.2. Landing Page, Services & Applications Implementation
 
 ### 5.2.1. Sprint 1

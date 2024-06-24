@@ -33,7 +33,29 @@ El servicio se ofrece de forma gratuita para usuarios finales, mientras que los 
 #### 1.2.2.2. Lean UX Assumptions
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
+1. **Creemos** que al recomendar centros técnicos cercanos según la ubicación de consulta, se facilitará a las personas ahorrar tiempo al buscar y solicitar servicios de reparación de dispositivos móviles.
 
+    **Sabremos** que hemos tenido éxito,
+
+    **Cuando** el flujo de nuevos usuarios y las consultas de centros técnicos cercanos aumente en un 15% mensualmente.
+
+2. **Creemos** que al implementar un dashboard en la aplicación para los usuarios con rol de técnico, estos podrán tener un mejor control de su inventario de repuestos y una visión más clara del flujo de ganancias de su negocio.
+
+    **Sabremos** que hemos tenido éxito,
+
+    **Cuando** la cantidad de suscripciones de nuevos técnicos que se unan a la aplicación aumente en un 40% trimestralmente.
+
+3. **Creemos** que al administrar un sistema de seguimiento en el centro técnico, se mejorará la experiencia del técnico en sus servicios y se mantendrá a los clientes informados de manera oportuna sobre el proceso de reparación.
+
+    **Sabremos** que hemos tenido éxito,
+
+    **Cuando** la cantidad de reclamos disminuya en un 20% y el flujo de actividad en este aumente en un 45%.
+
+4. **Creemos** que al permitir que los usuarios califiquen y comenten los perfiles de los centros técnicos asociados a la aplicación, se promoverá que los futuros usuarios tomen decisiones informadas y se sientan seguros al contratar un servicio en algún centro técnico.
+
+    **Sabremos** que hemos tenido éxito,
+
+    **Cuando** el crecimiento del centro técnico sea un 20% más rápido en comparación con el enfoque tradicional.
 #### 1.2.2.4. Lean UX Canvas
 ![LeanUXCanvas](assets/LeanUX_Canvas.jpg)
 ## 1.3. Segmentos objetivo

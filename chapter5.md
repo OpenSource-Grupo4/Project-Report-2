@@ -877,6 +877,98 @@ En esta etapa, el equipo se propone abordar las observaciones proporcionadas por
 
 #### 5.2.3.2. Sprint Backlog 3
 
+
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 3</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US13 Update Profile </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Santiago Olivera</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 2</td>
+    <td align="center"> Raúl Quispe</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 5</td>
+    <td align="center"> Santiago Olivera</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 2</td>
+    <td align="center"> Lorenzo Navarro</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US14 Support Page</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 1</td>
+    <td align="center"> Manuel Vargas</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 2</td>
+    <td align="center"> Santiago Guerra</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> ...</td>
+    <td align="center"> ... </td>
+    <td align="center"> 1</td>
+    <td align="center"> Lorenzo Navarro</td>
+    <td align="center"> Done</td>
+  </tr>
+
+</table>
+
 #### 5.2.3.3. Development Evidence for Sprint Review
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
@@ -976,6 +1068,98 @@ En esta etapa, el equipo se propone abordar las observaciones proporcionadas por
 </table>
 
 #### 5.2.4.2. Sprint Backlog 4
+
+
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td align="center" colspan="7"> <strong>Sprint 4</strong> </td>
+  </tr>
+
+   <tr>
+    <td align="center" colspan="2"> <strong>User Story</strong></td>
+    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>ID</strong> </td>
+    <td align="center"> <strong>Title<strong></td>
+    <td align="center"> <strong>Description<strong></td>
+    <td align="center"> <strong>Estimation (Hours)<strong></td>
+    <td align="center"> <strong>Assigned To<strong></td>
+    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
+  </tr>
+  <!---------------------------------------------------------------------- -->
+  <tr>
+    <td rowspan="4" align="center"> ID </td>
+    <td rowspan="4" align="center"> US13 Update Profile </td>
+    <td align="center"> TA01 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 2 </td>
+    <td align="center"> Santiago Olivera</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 2</td>
+    <td align="center"> Raúl Quispe</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 5</td>
+    <td align="center"> Santiago Olivera</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA04 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 2</td>
+    <td align="center"> Lorenzo Navarro</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td rowspan="3" align="center"> ID </td>
+    <td rowspan="3" align="center"> US14 Support Page</td>
+    <td align="center"> TA01 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 1</td>
+    <td align="center"> Manuel Vargas</td>
+    <td align="center">Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA02 </td>
+    <td align="center"> ... </td>
+    <td align="center"> ... </td>
+    <td align="center"> 2</td>
+    <td align="center"> Santiago Guerra</td>
+    <td align="center"> Done</td>
+  </tr>
+
+  <tr>
+    <td align="center"> TA03 </td>
+    <td align="center"> ...</td>
+    <td align="center"> ... </td>
+    <td align="center"> 1</td>
+    <td align="center"> Lorenzo Navarro</td>
+    <td align="center"> Done</td>
+  </tr>
+
+</table>
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 

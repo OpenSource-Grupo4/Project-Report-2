@@ -11,6 +11,14 @@
 
 # PROJECT REPORT COLLABORATION INSIGHTS
 -----
+|**`LINK'S DIRECTOS`**|
+|-|
+|**URL de la organización:** [Grupo 4](https://github.com/OpenSource-Grupo4) - *https://github.com/OpenSource-Grupo4*|
+|**URL del repositorio del Project-Report :** [Grupo 4](https://github.com/OpenSource-Grupo4/Project-Report-2) - *https://github.com/OpenSource-Grupo4/Project-Report-2*|
+|**URL del repositorio de Landing Page:** [LandingPage](https://github.com/OpenSource-Grupo4/LandingPageTechHelpG4.github.io) - *https://github.com/OpenSource-Grupo4/LandingPageTechHelpG4.github.io*|
+|**URL del repositorio del FrontEnd:** [FrontEnd](https://github.com/OpenSource-Grupo4/techelp-frontend) - *https://github.com/OpenSource-Grupo4/techelp-frontend*|
+|**URL del repositorio del BackEnd:** [BackEnd](https://github.com/OpenSource-Grupo4/techhelp-backend) - *https://github.com/OpenSource-Grupo4/techhelp-backend*|
+
 |**`REPORTE DE COLABORACIÓN DE LA ENTREGA DE TB1`**|
 |---|
 |En esta entrega, nuestra tarea principal fue el completar el reporte del proyecto hasta los puntos indicados (Capitulo V) y una primera versión del Landing-Page - adjuntamos los commit's que hicimos para el Project-Report y Landing-Page - Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, WebStorm y JavaScript/HTML/CSS. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo TecHelp:|

@@ -31,6 +31,44 @@ El servicio se ofrece de forma gratuita para usuarios finales, mientras que los 
 #### 1.2.2.1. Lean UX Problem Statements
 
 #### 1.2.2.2. Lean UX Assumptions
+#### Suposiciones del Usuario:
+
+1. **Usuarios Finales**:
+   - **Quiénes son**: Personas que buscan servicios técnicos de reparación para sus dispositivos móviles y desean conocer la confiabilidad de las empresas de reparación.
+   - **Necesidades y Desafíos**: Requieren encontrar servicios seguros y confiables de reparación, así como conocer comentarios y calificaciones para tomar decisiones informadas.
+   - **Solución Propuesta**: Recibir recomendaciones de centros técnicos cercanos, valorados por otros usuarios, para una selección más segura y confiable.
+
+2. **Técnicos en Reparación de Teléfonos Celulares**:
+   - **Quiénes son**: Profesionales que buscan mejorar la gestión de su centro de labores, incluyendo inventario de productos y experiencia del cliente.
+   - **Necesidades y Desafíos**: Necesitan una herramienta para gestionar su inventario y comunicarse eficientemente con los clientes, manteniéndolos informados sobre el proceso de reparación.
+   - **Solución Propuesta**: Proporcionar un dashboard para control de inventario y un sistema de tracking para comunicación directa con los clientes.
+
+#### Suposiciones de Negocio:
+
+1. **Valor Principal para el Cliente**:
+   - **Usuarios Finales**: Acceder a servicios técnicos de alta calidad y confianza, cerca de su ubicación, facilitando una selección segura y rápida.
+   - **Técnicos en Reparación**: Ampliar su mercado y mejorar la gestión del negocio, generando confianza y comunicación efectiva con los clientes.
+
+2. **Beneficios Adicionales para el Cliente**:
+   - **Usuarios Finales**: Ahorro de tiempo al encontrar servicios de calidad rápidamente.
+   - **Técnicos en Reparación**: Mayor flujo de clientes y mejor administración financiera.
+
+3. **Modelo de Monetización**:
+   - Suscripciones mensuales de afiliación para los centros técnicos.
+   - Posible implementación de comisiones por transacciones realizadas a través de la aplicación.
+
+#### Suposiciones de Usuario:
+
+1. **Usuarios Finales**:
+   - Utilizan la plataforma para encontrar servicios técnicos confiables y cercanos para reparar sus dispositivos móviles.
+   - Integran la plataforma en su rutina diaria al buscar información sobre reparaciones y seguir el progreso de sus dispositivos en reparación.
+   - Desean una imagen de la aplicación como una fuente confiable de información sobre servicios técnicos de reparación.
+
+2. **Técnicos en Reparación**:
+   - Utilizan la plataforma para promocionar su negocio y comunicarse con los clientes.
+   - Integran la plataforma en su rutina laboral para gestionar el inventario y mantener a los clientes informados sobre el progreso de las reparaciones.
+
+Estas suposiciones guiarán el diseño y desarrollo de la plataforma, asegurando que cumpla con las necesidades y expectativas de los usuarios finales y los técnicos en reparación de teléfonos celulares.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 1. **Creemos** que al recomendar centros técnicos cercanos según la ubicación de consulta, se facilitará a las personas ahorrar tiempo al buscar y solicitar servicios de reparación de dispositivos móviles.

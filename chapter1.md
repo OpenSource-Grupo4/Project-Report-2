@@ -16,7 +16,14 @@ TecHelp, una solución innovadora, se distingue por su enfoque en la lógica y l
 | ![Santiago](assets/santiago_cap1.png)|Santiago Olivera Guerra|U20201a821|Estudiante de Ingeniería Sotfware|Me caracterizo por mi entusiasmo y creatividad, los cuales me motivan a aportar una variedad de ideas y conocimientos en cualquier equipo en el que participe. Cuento con una amplia experiencia en programación, especialmente en lenguajes como C++, HTML y CSS, y soy reconocido por mi capacidad para redactar de forma clara y efectiva. Disfruto interactuar socialmente y siempre busco oportunidades para crecer y evolucionar como persona en todas las áreas de mi vida.|
 | ![Lorenzo](assets/Lorenzo_Chap1.jpg)|Lorenzo Sebastian Navarro Robles|u201713141|Estudiante de Ingeniería Sotfware|Soy una persona enérgica y creativa, siempre impulsado por mi pasión y curiosidad innata. Me destaco por mi habilidad para aportar una diversidad de ideas y conocimientos en cualquier equipo al que pertenezco. Poseo una sólida trayectoria en el campo de la programación, especialmente en lenguajes como C++, HTML y CSS, donde he demostrado mi destreza y versatilidad. Además, soy reconocido por mi capacidad para comunicarme de manera clara y efectiva, lo que me permite transmitir ideas de manera convincente. Me encanta interactuar con otros y estoy constantemente buscando oportunidades para crecer y expandirme tanto personal como profesionalmente.|
 ## 1.2. Solution Profile
+- **Nombre del producto:**
+El nombre elegido para nuestro producto es "TecHelp", que combina "Tec" de técnico y "Help" de ayuda en inglés, transmitiendo la idea de "Ayuda Técnica" para atraer al público objetivo y hacer la aplicación más comercialmente viable.
 
+- **Descripción del producto:**
+"TecHelp" es una aplicación web que facilita la búsqueda y selección de centros técnicos para reparar teléfonos celulares. Permite filtrar resultados según necesidades y comentarios, brinda seguimiento del proceso de reparación y ofrece un panel de control para técnicos, así como la posibilidad para empresas de gestionar servicios de reparación para múltiples dispositivos.
+
+- **Monetización:**
+El servicio se ofrece de forma gratuita para usuarios finales, mientras que los técnicos pueden acceder a herramientas adicionales mediante una membresía mensual. Se planea establecer acuerdos con empresas para gestionar solicitudes de reparación a medida que la popularidad de la aplicación aumente.
 ### 1.2.1 Antecedentes y problemática
 
 ### 1.2.2 Lean UX Process

@@ -768,11 +768,27 @@ Una vez finalizado el sprint 2, conseguimos desarrollar y poner en funcionamient
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Durante el segundo sprint, hemos concebido, codificado y activado la página inicial para presentar la aplicación web "Techelp". En esta página inicial, se han integrado varias secciones elaboradas por el equipo, asignando a cada miembro del grupo la responsabilidad de una sección específica.
+
+<table> 
+  <tr>
+    <td> <strong>End Point </strong></td>
+    <td align="center"> <strong>Funciones</strong> </td>
+  </tr>
+  <tr>
+    <td> https://www.npmjs.com/package/json-server</td>
+    <td> Fake API  del Frontend de TecHelp</td>
+  </tr>
+  <tr>
+    <td> https://github.com/OpenSource-Grupo4/Fronted </td>
+    <td> Desplegar  Frontend de TecHelp</td>
+  </tr>
+</table>
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
-
+Para llevar a cabo la creación de nuestra página, decidimos emplear Firebase. Durante este proceso, se estableció un proyecto en Firebase y se conectó utilizando Angular Firebase. Para acceder a los datos, se requiere el archivo JSON localmente.
 #### 5.2.2.8. Team Collaboration Insights during Sprint
-
+En esta entrega, nos enfocamos principalmente en implementar las funciones de solicitud y visualización de técnicos. Para lograr este objetivo, utilizamos varias herramientas, como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a mostrar los diagramas de flujo que representan los commits efectuados por cada integrante del equipo.
 ### 5.2.3. Sprint 3
 
 #### 5.2.3.1. Sprint Planning 3

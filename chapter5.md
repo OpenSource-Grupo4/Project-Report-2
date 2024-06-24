@@ -200,7 +200,7 @@ En relación con el desarrollo de la página de inicio de TecHelp, hemos utiliza
 ## 5.2. Landing Page, Services & Applications Implementation
 En esta sección se describe el proceso seguido para la implementación, pruebas, documentación y despliegue de los componentes del proyecto: Landing Page, Web Services y Frontend Web Applications. El desarrollo se llevó a cabo siguiendo una metodología ágil, con iteraciones estructuradas en Sprints. A continuación, se presenta el desglose de actividades por Sprint.
 ### 5.2.1. Sprint 1
-
+En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Services, Pricing, Testimonials o About Us, deben estar completadas.
 #### 5.2.1.1. Sprint Planning 1
 
 #### 5.2.1.2. Sprint Backlog 1

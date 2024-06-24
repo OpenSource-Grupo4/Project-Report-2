@@ -37,3 +37,8 @@ El servicio se ofrece de forma gratuita para usuarios finales, mientras que los 
 #### 1.2.2.4. Lean UX Canvas
 
 ## 1.3. Segmentos objetivo
+Dentro de nuestros usuarios, encontramos dos perfiles distintos:
+|Perfiles|Imágenes|
+|---|--|
+|**Usuarios:** Son aquellos que regularmente emplean teléfonos móviles y, en algunos casos, han sido víctimas de robos o estafas vinculadas a la reparación de sus dispositivos. Estos usuarios están en la búsqueda de soluciones confiables y seguras.|![UsuariosFinales](assets/Celu_Roto.jpg)|
+|**Centros Técnicos:** Estos profesionales operan centros de reparación y poseen un alto nivel de especialización en la identificación y el uso de herramientas, suministros y equipamiento necesario para reparar dispositivos móviles. Nuestra plataforma les ofrece la flexibilidad necesaria para gestionar eficientemente sus órdenes de trabajo, brindando atención tanto en sus locales físicos como en línea.|![CentrosTecnicos](assets/Celu_Tecnico.jpg)|

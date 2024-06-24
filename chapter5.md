@@ -1182,6 +1182,21 @@ En esta etapa, el equipo se propone abordar las observaciones proporcionadas por
 
 ### 5.3.2. Registro de Entrevistas
 
+|***Entrevista***|***3***|
+|---------|----------|
+|Nombre completo|Javier Arce|
+|Edad|22 años|
+|Distrito|Chorrillos|
+|Screenshot de video|<img src="assets/JAVIER.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EQJTRnb2czBIgPmpCsJFZqYBELOAcas9s0PgKHzUOgeeFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lxAYt6)|
+|Entrevista entre los minutos|11:03 - 21:29|
+|Resumen de la entrevista|Gabriela, estudiante de derecho, tuvo problemas con su pantalla durante la pandemia. Buscó un técnico para arreglarlo y en una entrevista destaca la importancia de encontrar precios claros y confianza en el técnico dentro de la aplicación.|
+|Tipo de Usuario|Técnico|
+
+|**`SEGMENTO OBJETIVO TÉCNICO(Javier Arce)`**|
+|---|
+|Javier Arce, un técnico de celulares de 22 años que reside en Chorrillos, Lima, destacó varios aspectos positivos de la plataforma en su entrevista. En su tiempo libre, disfruta de tocar la guitarra y jugar videojuegos. Javier encontró la aplicación web intuitiva y fácil de navegar, con una interfaz agradable y bien organizada. Le llamó la atención el dashboard interactivo, el analytics detallado y la gestión de tareas, considerándolos extremadamente útiles para su trabajo. No experimentó ninguna dificultad técnica y sugirió la incorporación de una función de chat en tiempo real y una sección de FAQs para mejorar la eficiencia. Javier elogió la distribución de la interfaz, que facilita el acceso rápido a herramientas necesarias, y sugirió la adición de tutoriales interactivos y mayor personalización del perfil de usuario para mejorar aún más la plataforma. En general, Javier tuvo una experiencia muy positiva con la aplicación y ve un gran potencial en ella.|
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product

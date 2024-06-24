@@ -1181,6 +1181,23 @@ En esta etapa, el equipo se propone abordar las observaciones proporcionadas por
 ### 5.3.1. Diseño de Entrevistas
 
 ### 5.3.2. Registro de Entrevistas
+|***Entrevista***|***2***|
+|---------|----------|
+|Nombre completo|Mariel Anicama|
+|Edad|21 años|
+|Distrito|Pueblo Libre|
+|Screenshot de video|<img src="assets/ANICAMA.png" alt="Usuario" style="width:100%;">|
+|URL del video|[Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EQJTRnb2czBIgPmpCsJFZqYBELOAcas9s0PgKHzUOgeeFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=lxAYt6)|
+|Entrevista entre los minutos|00:00 - 06:06|
+|Resumen de la entrevista|Mariel Anicama, estudiante de Veterinaria de 21 años, considera la aplicación web intuitiva y útil, destacando la funcionalidad de ver técnicos, aunque sugiere mejorar errores ortográficos y agregar la opción de mostrar técnicos cercanos.|
+|Tipo de Usuario|Cliente|
+
+|**`SEGMENTO OBJETIVO CLIENTE(Mariel Anicama)`**|
+|---|
+|Mariel Anicama, una estudiante de Veterinaria de Lima, encontró la aplicación web útil e intuitiva en general. Aprecio la funcionalidad de ver un listado de técnicos y cree que la interfaz permitirá a los técnicos trabajar eficientemente. Aunque señaló pequeños bugs y errores ortográficos, está satisfecha con la aplicación y cree que tiene un buen futuro. Sugiere incorporar la funcionalidad de mostrar técnicos cercanos para mejorar aún más la plataforma.|
+
+<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">
+
 
 |***Entrevista***|***3***|
 |---------|----------|

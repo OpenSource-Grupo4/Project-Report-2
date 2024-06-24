@@ -71,7 +71,14 @@ Estas herramientas y tecnologías serán esenciales para el desarrollo exitoso d
 - **Software Documentation:** Se trata de los textos escritos o ilustraciones que acompañan al software de computadora o se integran en su código fuente. Esta documentación tiene como objetivo explicar cómo funciona el software o cómo utilizarlo.
 
 ### 5.1.2. Source Code Management
-
+A continuación, se detalla la gestión del código fuente, también conocida como SCM (Source Code Management) por sus siglas en inglés. Su principal función es seguir las modificaciones que el equipo realizará durante el desarrollo de los proyectos en los repositorios de código fuente. Se utilizará como un sistema de control de versiones que permite rastrear los cambios efectuados por cada miembro o desarrollador en el proyecto. Es importante destacar que utilizaremos **GitHub** como nuestro sistema de control de versiones.
+|**`LINK'S DIRECTOS`**|
+|-|
+|**URL de la organización:** [Grupo 4](https://github.com/OpenSource-Grupo4) - *https://github.com/OpenSource-Grupo4*|
+|**URL del repositorio del Project-Report :** [Grupo 4](https://github.com/OpenSource-Grupo4/Project-Report-2) - *https://github.com/OpenSource-Grupo4/Project-Report-2*|
+|**URL del repositorio de Landing Page:** [LandingPage](https://github.com/OpenSource-Grupo4/LandingPageTechHelpG4.github.io) - *https://github.com/OpenSource-Grupo4/LandingPageTechHelpG4.github.io*|
+|**URL del repositorio del FrontEnd:** [FrontEnd](https://github.com/OpenSource-Grupo4/techelp-frontend) - *https://github.com/OpenSource-Grupo4/techelp-frontend*|
+|**URL del repositorio del BackEnd:** [BackEnd](https://github.com/OpenSource-Grupo4/techhelp-backend) - *https://github.com/OpenSource-Grupo4/techhelp-backend*|
 ### 5.1.3. Source Code Style Guide & Conventions
 
 ### 5.1.4. Software Deployment Configuration

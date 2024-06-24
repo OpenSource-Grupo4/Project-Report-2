@@ -475,15 +475,50 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
 
 </table>
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
-
+En el Sprint 1, se completaron únicamente las características relacionadas con el sitio web estático, sin que se llevara a cabo la implementación de los Web Services.
 #### 5.2.1.5. Execution Evidence for Sprint Review
+A continuación, presentamos capturas de pantalla que muestran el progreso deL Landing Page:
 
+En la parte superior, encontramos el encabezado (Header), que incluye botones de inicio (Home), servicios (Service), membresías (Membership), contacto (Contact-Us), información sobre nosotros (About Us), un selector de idioma (inglés y español) y un botón para activar el modo oscuro. Estos elementos permiten a los visitantes navegar fácilmente a la sección que deseen visualizar.
+
+|**`IMÁGENES`**|
+|-|
+|**`IMAGEN 1: ENCABEZADO Y BOTONES DE DESPLAZAMIENTO`**|
+|Se muestra la sección "Hero", que cuenta con una breve descripción y una frase representativa de TecHelp. Esta sección también facilita el inicio del uso del servicio web y presenta una imagen relacionada con el mismo.|
+|<img src="assets/header.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`IMAGEN 2: SECCIÓN HERO`**|
+|Se presenta la sección de beneficios del servicio para cada segmento objetivo identificado por el equipo.|
+|<img src="assets/hero.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`IMAGEN 3: SECCIÓN BENEFITS Ó SERVICE`**|
+|Se exhibe la sección de membership en la página de aterrizaje, donde los potenciales usuarios pueden visualizar los diferentes tipos de membresías y sus respectivos costos.|
+|<img src="assets/servis.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`IMAGEN 4: SECCIÓN MEMBERSHIP`**|
+|A continuación, se muestra la sección de contacto, donde nuestros posibles usuarios pueden realizar preguntas personalizadas sobre la aplicación que estamos presentando.|
+|<img src="assets/membership.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`IMAGEN 5: SECCIÓN CONTACT-US`**|
+|Luego, se muestra la sección "Sobre nosotros" (About Us). En esta sección, se proporciona un resumen informativo sobre las personas que están desarrollando la solución de software.|
+|<img src="assets/contac-us.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`IMAGEN 6: SECCIÓN ABOUT-US`**|
+|Finalmente, se presenta la sección del pie de página, que incluye nuestros enlaces a redes sociales y botones que permiten al usuario regresar fácilmente a las secciones deseadas.|
+|<img src="assets/about_us.jpeg" alt="BARRA SEPARADORA" style="width:100%">|
+|**`IMAGEN 7: SECCIÓN FOOTER`**|
+|<img src="assets/footer.png" alt="BARRA SEPARADORA" style="width:100%">|
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review
+En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "Techelp". En esta página de inicio, encontrarás varias secciones creadas para nuestro Landing Page.
 
+|**`REPOSITORIO LANDING PAGE`**|>|[https://github.com/OpenSource-Grupo4/LandingPage-Grupo4](https://github.com/OpenSource-Grupo4/LandingPageTechHelpG4.github.io)|
+|-----|----|----|
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review
+Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones. En la sección de Configuración, publicamos el proyecto almacenado en la rama "main" que previamente se encontrba en la rama release-1.0.
 
+|**`LANDING PAGE DESPLEGADO`**|>|https://opensource-grupo4.github.io/LandingPageTechHelpG4.github.io/|
+|-----|----|----|
 #### 5.2.1.8. Team Collaboration Insights during Sprint
+En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados:
 
+<img src="assets/5.2.1.8.jpg" alt="BARRA SEPARADORA" style="width:100%">
 
 --------------
 ### 5.2.2. Sprint 2

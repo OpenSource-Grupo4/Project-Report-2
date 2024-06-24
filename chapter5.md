@@ -1177,6 +1177,7 @@ En esta etapa, el equipo se propone abordar las observaciones proporcionadas por
 
 
 ## 5.3. Validation Interviews
+Para la sección de validación de segmentos objetivo, se deben establecer los elementos específicos que se evaluarán para cada grupo de usuarios, incluyendo el diseño del Landing Page y las funcionalidades de las aplicaciones. Esto implica definir los flujos de usuario que se probarán, asegurándose de que reflejen las tareas y objetivos más comunes para cada segmento. La sesión de validación debe enfocarse en la experiencia de navegación, la facilidad de uso, la eficiencia en la realización de tareas y la satisfacción general del usuario. Además, se deben identificar y documentar cualquier problema técnico, puntos de fricción y áreas de mejora. El objetivo es obtener feedback detallado y accionable para optimizar el diseño y la funcionalidad de la plataforma antes de su lanzamiento final.
 
 ### 5.3.1. Diseño de Entrevistas
 - **Nombre y edad:** ¿Cuál es tu nombre completo y cuántos años tienes?

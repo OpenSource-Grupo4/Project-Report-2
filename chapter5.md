@@ -971,6 +971,54 @@ En esta etapa, el equipo se propone abordar las observaciones proporcionadas por
 
 #### 5.2.3.3. Development Evidence for Sprint Review
 
+Para este tercer sprint logramos desplegar y desarrollar las siguientes secciones de nuestra aplicación web:
+
+* Evidencias del FrontEnd:
+<br>
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="41" align="center"> https://github.com/OpenSource-Grupo4/techelp-frontend </td>
+    <td align="center"> main</td>
+    <td align="center"> -</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> --/--/2024</td>
+  </tr>
+  
+  </table>
+
+* Evidencias del BackEnd:
+<br>
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="41" align="center"> https://github.com/OpenSource-Grupo4/techhelp-backend </td>
+    <td align="center"> main</td>
+    <td align="center"> -</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> --/--/2024</td>
+  </tr>
+
+  </table>
+
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
 #### 5.2.3.5. Execution Evidence for Sprint Review

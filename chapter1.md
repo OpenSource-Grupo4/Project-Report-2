@@ -35,7 +35,7 @@ El servicio se ofrece de forma gratuita para usuarios finales, mientras que los 
 #### 1.2.2.3. Lean UX Hypothesis Statements
 
 #### 1.2.2.4. Lean UX Canvas
-
+![LeanUXCanvas](assets/LeanUX_Canvas.jpg)
 ## 1.3. Segmentos objetivo
 Dentro de nuestros usuarios, encontramos dos perfiles distintos:
 |Perfiles|Imágenes|

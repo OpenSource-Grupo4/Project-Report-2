@@ -1,7 +1,7 @@
 # ***CAPÍTULO V: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT***
 --------
 ## 5.1. Software Configuration Management
-
+En este apartado se describen las elecciones y reglas que permitirán al equipo asegurar la consistencia a lo largo de todo el proceso de desarrollo de nuestra solución.
 ### 5.1.1. Software Development Environment Configuration
 
 ### 5.1.2. Source Code Management

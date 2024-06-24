@@ -793,6 +793,88 @@ En esta entrega, nos enfocamos principalmente en implementar las funciones de so
 
 #### 5.2.3.1. Sprint Planning 3
 
+En esta etapa, el equipo se propone abordar las observaciones proporcionadas por el propietario del producto y las partes interesadas. Además, se busca completar aproximadamente el 40% del desarrollo del backend de la aplicación web.
+
+<table>
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td>Sprint 3</td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Planning Background</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Date</strong></td>
+    <td>2023-11-01</td>
+  </tr>
+
+  <tr>
+    <td><strong>Time</strong></td>
+    <td>11:15 AM</td>
+  </tr>
+
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Reunion realizada en el grupo de discord del equipo de trabajo</td>
+  </tr>
+  
+  <tr>
+    <td><strong>Prepared By</strong></td>
+    <td>Manuel Alexis Vargas Quispe <b>(Lider de grupo)</b></td>
+  </tr>
+
+  <tr>
+    <td><strong>Attendees (to planning meeting)</strong></td>
+    <td>
+      <ol type="A">
+        <li>Santiago Olivera Guerra</li>
+        <li>Lorenzo Sebastian Navarro Robles</li>
+        <li>Raúl Ronaldo Quispe Erasmo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 3 Review Summary</strong></td>
+    <td>El anterior sprint desarrollado de 12 al 19 de setiembre que tuvo como meta el  desarrollo del frontend al 40%.Se obtuvo como resultado el completo completo desarrollo y su despliege en su totalidad con las caracteristicas planteadas por el equipo de trabajo.La opinion de los miembros del equipo fue que tuvimos una mala coordinacion al momento de realizar la documentacion y falta de comunicacion. El feeback dado al sprint anterior fue la falta del spring planning 2,call_to_action con la appweb y mala evidencia de comunicacion oral entre los miembros del grupo  </td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 3 Retrospective Summary</strong></td>
+    <td>Las opiniones del equipo de trabajo son las siguientes:
+      <ol type="A">
+        <li>Se debe mejorar nuestra coordinacion como equipo de trabajo en el desarrollo de los sprints</li>
+        <li>Debemos se mas responsables cumpliendo las fechas establecidas para la entrega de cada parte desarrollado por un mienbro.</li>
+        <li>Debemos ser mas minuciosos al momento de revisar las fallas de nuestro trabajo</li>
+      </ol>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 3 Goal</strong></td>
+    <td>El objetivo del sprint es el desarrollo de la backend superior al 40%</td>
+  </tr>
+
+  <tr>
+    <td><strong>Sprint 3 Velocity</strong></td>
+    <td>30</td>
+    
+    
+  </tr>
+
+  <tr>
+    <td><strong>Sum of Story Points</strong></td>
+    <td>29</td>
+  </tr>
+</table>
+
+
 #### 5.2.3.2. Sprint Backlog 3
 
 #### 5.2.3.3. Development Evidence for Sprint Review

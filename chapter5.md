@@ -198,7 +198,7 @@ En relación con el desarrollo de la página de inicio de TecHelp, hemos utiliza
 |**Git Flow**|Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page.|<img src="assets/flow.jpg" alt="Timbrit" style="width:100%;">|
 |**Git Hub Pages**|Servicio de Github que nos permitió alojar nuestra lading page.|<img src="assets/pages.jpg" alt="Helpers" style="width:100%;">|
 ## 5.2. Landing Page, Services & Applications Implementation
-
+En esta sección se describe el proceso seguido para la implementación, pruebas, documentación y despliegue de los componentes del proyecto: Landing Page, Web Services y Frontend Web Applications. El desarrollo se llevó a cabo siguiendo una metodología ágil, con iteraciones estructuradas en Sprints. A continuación, se presenta el desglose de actividades por Sprint.
 ### 5.2.1. Sprint 1
 
 #### 5.2.1.1. Sprint Planning 1

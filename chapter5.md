@@ -1185,3 +1185,5 @@ En esta etapa, el equipo se propone abordar las observaciones proporcionadas por
 ### 5.3.3. Evaluaciones según heurísticas
 
 ## 5.4. Video About-the-Product
+- **Link del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXkra-WHHpNBrWiD5hciA_sBRZO2OW_ZnWNupxCMc-8n-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CwnWmh
+<img src="assets/PRODUCT.png" alt="Usuario" style="width:100%;">

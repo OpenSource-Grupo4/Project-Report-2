@@ -27,7 +27,9 @@ El servicio se ofrece de forma gratuita para usuarios finales, mientras que los 
 ### 1.2.1 Antecedentes y problemática
 
 ### 1.2.2 Lean UX Process
+En esta sección, aplicaremos el enfoque del Lean UX Process para abordar los desafíos identificados en el campo de los servicios técnicos para dispositivos móviles. El Lean UX Process es una metodología centrada en la colaboración rápida y el aprendizaje iterativo para desarrollar productos y soluciones que satisfagan las necesidades del usuario de manera efectiva. A través de una serie de etapas que incluyen la identificación de problemas, la generación de soluciones y la validación con usuarios reales, buscamos mejorar la experiencia tanto para los clientes en busca de servicios técnicos como para los profesionales que los proporcionan.
 
+A continuación, presentamos los Lean UX Problem Statements, donde delineamos los desafíos específicos que enfrentan los usuarios y los técnicos en el contexto de los servicios de reparación y soporte para dispositivos móviles, así como nuestras propuestas para abordarlos de manera efectiva.
 #### 1.2.2.1. Lean UX Problem Statements
 **Problema 1:** Los profesionales de reparación y soporte para dispositivos móviles tienen dificultades para generar confianza en los clientes debido a estafas frecuentes perpetradas por individuos malintencionados que se hacen pasar por técnicos legítimos. La falta de visibilidad en plataformas como sitios web o redes sociales limita su capacidad para recibir respaldo y recomendaciones de clientes satisfechos, lo que podría afectar negativamente la reputación y la viabilidad de sus negocios.
 

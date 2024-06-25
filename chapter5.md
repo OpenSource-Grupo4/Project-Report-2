@@ -1092,11 +1092,122 @@ Analytics: Se le muestra una vista mas amplia de las estadisticas.
 ![analytics.png](assets/analytics_5.png)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
+En el tercer sprint se pudo desarrollar el 50% del BackEnd; sin embargo, aún no se ha implementado ni desplegarlo.
+
+![network.png](assets/tables1.png)
+![network.png](assets/Swagger1.png)
+![network.png](assets/Swagger2.png)
+
+Este es el principal motivo por el cual aún usamos una Fake-Api.A continuacion se mostraran los endpoints desarrollados en este sprint.
+
+<table>
+  <tr>
+    <td align ="center" > <strong>EndPoint</strong></td>
+    <td  align ="center" > <strong>HttpVerb</strong></td>
+    <td  align ="center" > <strong>Action</strong></td>
+
+  </tr>
+
+  <tr>
+    <td  align="center"> https://my-json-server.typicode.com/FORASTERRO/TechHelpTaskDB </td>
+    <td align="center"> GET POST PUT DELETE</td>
+    <td align="center"> - Se obtiene todos los datos.
+    <br> -Se obtiene los datos mediante Id. 
+    <br> - Se crea una nueva task.
+    <br> -Se actualiza una task mediante la id. </td>
+  </tr>
+
+
+  <tr>
+    <td align="center"> https://my-json-server.typicode.com/FORASTERRO/TechHelpDB/technicals</td>
+    <td align="center"> GET POST</td>
+    <td align="center"> -Se obtiene todos los datos<br>
+    -Registra los datos</td>
+
+  </tr>
+
+  <tr>
+    <td align="center"> https://my-json-server.typicode.com/FORASTERRO/TechHelpDB/inventories</td>
+    <td align="center"> GET POST </td>
+    <td align="center"> -Se obtiene todos los datos del inventario.<br>
+    -Se crea un inventario para un dashboard</td>
+
+  </tr>
+
+</table>
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review
+ Proceso de Deploy del FrontEnd TecHelp en Firebase
+
+En esta sección se resume el proceso realizado para el Deployment del FrontEnd de TecHelp en Firebase.
+
+ 1. Configuración Inicial en Firebase
+
+1. *Creación del Proyecto en Firebase*:
+   - Ingresamos a [Firebase Console](https://console.firebase.google.com/) y creamos un nuevo proyecto.
+     
+   ![Crear Proyecto](assets/firebase1.png)
+
+2. *Añadir una App Web*:
+   - En la página del proyecto, seleccionamos "Add app" y luego "Web".
+   - Registramos la app con un nombre y obtenemos el código de configuración de Firebase.
+     
+   ![Añadir App Web](assets/firebase2.png)
+
+3. *Configuración del Proyecto en Local*:
+   - Añadimos el código de configuración de Firebase a nuestro proyecto FrontEnd.
+   - Instalamos Firebase CLI si no está instalado:
+     bash
+     npm install -g firebase-tools
+     
+4. *Iniciar sesión y Configurar Firebase Hosting*
+   - Iniciamos sesión en Firebase:
+     bash
+     firebase login
+     
+   - Configuramos el proyecto para Firebase Hosting:
+     bash
+     firebase init
+     
+     Seleccionamos "Hosting" y seguimos los pasos para la configuración.
+
+5. *Construcción del Proyecto*:
+   - Ejecutamos el comando de construcción (build) para nuestro proyecto FrontEnd. Por ejemplo, para un proyecto React:
+     bash
+     npm run build
+     
+
+6. *Deploy a Firebase*:
+   - Finalmente, desplegamos el proyecto a Firebase Hosting:
+     bash
+     firebase deploy
+     
+   - Una vez desplegado, Firebase nos proporcionará una URL para acceder a nuestro FrontEnd.
+
+7. *Verificar el Deploy*:
+   - Accedemos a la URL proporcionada por Firebase para verificar que nuestro FrontEnd está correctamente desplegado.
+
+Link del FrontEnd desplegado: [https://finaltechhelp.web.app/](https://finaltechhelp.web.app/)
+
+Con estos pasos, hemos desplegado exitosamente el FrontEnd de TecHelp en Firebase.
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint
+_Frontend_
 
+En esta entrega, nuestra segunda meta fue la implementación total del frontend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub y Webstrom. A continuación, vamos a presentar los diagramas de flujo que evidenciarán el avance de nuestro trabajo en github:
+
+
+![commits-colaboration.png](assets/barras_front.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por solo uno de los integrantes del equipo. Esta dinámica se verá reflejada en las siguientes imagenes debido a un error a lo hora de subir el trabajo, por lo que los nuesvos cambios se verán realizados solamente por el integrante Santiago Olivera.  
+
+![commits.png](assets/contribuidores_frontend.png)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestro FrontEnd, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+
+![network.png](assets/network_frontend.png)
+En esta imagen se muestra las ramas realizadas para el desarrollo del frontend de nuestra app web.Siendo una muestra del desarrollo de esta.
 
 ### 5.2.4. Sprint 4
 

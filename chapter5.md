@@ -1021,6 +1021,8 @@ Para este tercer sprint logramos desplegar y desarrollar las siguientes seccione
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 
+En esta sección representamos el conjunto de Acceptance Test relacionadas con las User Stories para el desarrollo del tercer sprint.
+
 <table>
   <tr>
     <td align ="center" > <strong>Repository</strong></td>
@@ -1059,6 +1061,28 @@ Para este tercer sprint logramos desplegar y desarrollar las siguientes seccione
 </table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
+Para este tercer sprint se ha desplegado las siguientes secciones en nuestra aplicacion web.
+
+Login: Muestra a usuario el inicio de la apliación web en donde podra usar su correo y contraseña para entrar como tecnico o usuario.       
+![login.png](assets/login_5.png)
+Registro: Muestra a usuario un formulario con el cual podra registrarse.         
+![registro.png](assets/registro_5.png)
+Progress: Muestra una lista de las tareas que creo el tecnico.             
+![progress.png](assets/progress_5.png)
+ViewProgress: Muestra el progreso al técnico.           
+![viewprogress.png](assets/viewprogress_5.png)
+Profile: Muestra al tecnico su perfil.           
+![profile.png](assets/profile_5.png)
+Membership: Muesta al tecnico la memebresia la cual puede adquirir.           
+![membership.png](assets/membership_5.png)
+EditProfile: Muesta al tecnico un formalario en donde puede editar su informacion.             
+![editprofile.png](assets/editprofile_5.png)
+Dashboard: Muestra al tecnico el dashboard.             
+![dashboard.png](assets/dashboard_5.png)
+Inventario: Muestras al tecnio el inventario que tiene.           
+![inventario.png](assets/inventario_5.png)
+Analytics: Se le muestra una vista mas amplia de las estadisticas.           
+![analytics.png](assets/analytics_5.png)
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review
 

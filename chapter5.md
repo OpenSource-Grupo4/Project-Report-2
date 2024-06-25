@@ -533,7 +533,7 @@ En el segundo sprint, empezamos a construir nuestra aplicación web avanzando co
 
 |**FrontEnd Repository:** https://github.com/OpenSource-Grupo4/techelp-frontend|
 |-----|
-|**FrontEnd Deployed:** https://finaltechhelp-front.web.app/|
+|**FrontEnd Deployed:** https://finaltechhelp.web.app/|
 |<img src="assets/NetworkFront.png" alt="netfront" style="width:100%;">|
 #### 5.2.2.1. Sprint Planning 2
 <table>

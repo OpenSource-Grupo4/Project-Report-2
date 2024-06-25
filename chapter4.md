@@ -289,46 +289,47 @@ En esta seccion se mostrara el desarrollo final de los Mock-ups de la Web Applic
 |__Interfaz para nuevos usuarios y antiguos usuarios__|
 |---|
 |En estos wireframes se muestra el inicio de sesion y registro que fueron desarrollados con la tipografia y tamaño establecido en la documentacion.|
-|![1](assets/LoginUsuarioMockup.png)|
+|![LoginUsuarioMockup](assets/LoginUsuarioMockup.png)|
 
 |__Interfaz de Personas__|
 |---|
 |En esta seccion se muestra las paginas de "Home" para el cliente donde se puede ver el progreso,tecnicos y se vera algunas reparaciones que se estan llevando acabo o ya finalizaron. La siguiente pagina "Tecnicos "mostrara a los tecnicos cercanos,donde ademas podemos filtrarlos y buscar por nombre.En la pagina "Progreso" se mostrara el estado de la reparacion que sera representada por un grafico. La pagina "Favorita" mostrara los tecnicos guardados como favoritos por el usuario y  el "Inbox" se podra ver notificaciones de aceptacion de reparacion de los tecnicos ademas de brindar al usuario el contacto con el tecnico.|
-|![3](assets/InterfazHomeClienteMockup.jpg)|
-|![3](assets/InterfazTechnicalClienteMockup.jpg)|
-|![3](assets/InterfazProgressClienteMockup.jpg)|
-|![3](assets/InterfazInboxClienteMockup.jpg)|
+|![InterfazHomeClienteMockup](assets/InterfazHomeClienteMockup.jpg)|
+|![InterfazTechnicalClienteMockup](assets/InterfazTechnicalClienteMockup.jpg)|
+|![InterfazProgressClienteMockup](assets/InterfazProgressClienteMockup.jpg)|
+|![InterfazInboxClienteMockup](assets/InterfazInboxClienteMockup.jpg)|
 
 |__Pedir una reparacion al tecnico__|
 |---|
 |En esta seccion se puede ver la forma que al momento de pedir una reparacion a un tecnico determinado escogido de la pagina "Tecnicos".|
-|![5](assets/BuscarTecnicoUsuarioMockup.png)|
+|![BuscarTecnicoUsuarioMockup](assets/BuscarTecnicoUsuarioMockup.png)|
 
 |__Interfaz de Tecnico__|
 |---|
 |En esta seccion se muestra las paginas de "Home" que muestra un resumen de tareas,dashboard y peticiones recientes.El "DashBoard" que es exclusivo para los tecnicos. La pagina "Peticion" que permite mostrar al tecnico las peticiones de reparacion.El "perfil" que permitira administar al tecnico su propia informacion, comprar membresia o cancelarla y el "Task" que permite al tecnico visualizar las tareas aceptadas y en proceso.|
-|![2](assets/InterfazHomeTecnicoMockup.jpg)|
-|![2](assets/InterfazProfileTecnicoMockup.jpg)|
-|![2](assets/InterfazTaskTecnicoMockup.jpg)|
-|![2](assets/InterfazDashboardTecnicoMockup.jpg)|
-|![2](assets/InterfazHomePetitionMockup.jpg)|
+|![InterfazHomeTecnicoMockup](assets/InterfazHomeTecnicoMockup.jpg)|
+|![InterfazProfileTecnicoMockup](assets/InterfazProfileTecnicoMockup.jpg)|
+|![InterfazTaskTecnicoMockup](assets/InterfazTaskTecnicoMockup.jpg)|
+|![InterfazDashboardTecnicoMockup](assets/InterfazDashboardTecnicoMockup.jpg)|
+|![InterfazHomePetitionMockup](assets/InterfazHomePetitionMockup.jpg)|
 
 |__Conseguir o Cancelar Membresia__|
 |---|
 |En esta seccion se muestra la compra de una membresia mostrando los beneficios de esta,para luego de aceptar mostrara el formulario para rellenar la tarjeta de credito o debito.Ademas de mostrar una ventana emerfente que muestre la finalizacion correcta y regrese al inicio.|
-|![11](assets/SeleccionBeamemberTecnicoMockup.png)|
+|![SeleccionBeamemberTecnicoMockup](assets/SeleccionBeamemberTecnicoMockup.png)|
 
 |__Agregar una nueva tarea__|
 |---|
 |En esta seccion se mostrará la forma de agregar una nueva tarea al apartado "task", en el proceso podra usar su inventario de componentes previamente establecidos por usted.|
-||
-||
-||
+|![CrearNuevoTaskTecnicoMockup](assets/CrearNuevoTaskTecnicoMockup.png)|
+|![IncluirComponentesTecnicoMockup](assets/IncluirComponentesTecnicoMockup.png)|
+|![RetornarHomeTecnicoTaskMockup](assets/RetornarHomeTecnicoTaskMockup.png)|
 
 |__Inventario__|
 |---|
 |En esta seccion se muestra el menu del inventario donde se podra agregar componentes para la reparacion de los equipos ademas de poder mostrar los costos a los clientes de una formas mas rapida.|
-||
+|![CrearNuevoInventoryTecnicoMockup](assets/CrearNuevoInventoryTecnicoMockup.png)|
+|![AgregarComponentesTecnicoMockup](assets/AgregarComponentesTecnicoMockup.png)|
 
 
 ### 4.4.4. Web Applications User Flow Diagrams

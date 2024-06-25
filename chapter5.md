@@ -79,6 +79,7 @@ A continuación, se detalla la gestión del código fuente, también conocida co
 |**URL del repositorio de Landing Page:** [LandingPage](https://github.com/OpenSource-Grupo4/LandingPageTechHelpG4.github.io) - *https://github.com/OpenSource-Grupo4/LandingPageTechHelpG4.github.io*|
 |**URL del repositorio del FrontEnd:** [FrontEnd](https://github.com/OpenSource-Grupo4/techelp-frontend) - *https://github.com/OpenSource-Grupo4/techelp-frontend*|
 |**URL del repositorio del BackEnd:** [BackEnd](https://github.com/OpenSource-Grupo4/techhelp-backend) - *https://github.com/OpenSource-Grupo4/techhelp-backend*|
+
 ### 5.1.3. Source Code Style Guide & Conventions
 En esta sección, se presentarán las pautas, convenciones, estilos y principios que se aplicarán a cada uno de los lenguajes utilizados en la creación de nuestra aplicación. La observancia de este conjunto de directrices reviste una importancia fundamental, ya que tiene el propósito de mantener la calidad estructural del software, mejorar la legibilidad del código fuente y simplificar el mantenimiento del mismo.
 
@@ -98,7 +99,6 @@ Dado que en este proyecto se emplearán varios lenguajes, como HTML, CSS, JavaSc
 
 - **Especificaciones generales:** A continuación, detallaremos las reglas específicas necesarias para comprender el código de nuestra aplicación en cada lenguaje.
 
-
 |**`HTML`**|
 |-|
 |HTML, acrónimo de HyperText Markup Language en inglés, es un lenguaje de marcado que se utiliza para definir la estructura de una página web. También incluye funcionalidades que permiten controlar el comportamiento de diferentes elementos del contenido de la página, como cambiar el tamaño del texto o aplicar formato cursiva, entre otros. En nuestro proyecto, emplearemos HTML5, y a continuación, se presentan las características y directrices que debemos seguir para utilizar este lenguaje de la siguiente manera:|
@@ -111,7 +111,6 @@ Dado que en este proyecto se emplearán varios lenguajes, como HTML, CSS, JavaSc
 |<img src="assets/5.8.png" alt="Timbrit" style="width:100%;">|
 |**HTML Line-Wrapping:** A pesar de que en un documento HTML no exista un límite estricto en la cantidad de palabras por línea, no se recomienda generar líneas de código excesivamente largas. De hecho, hacerlo dificulta la legibilidad del código. Para continuar en la siguiente línea, se deben utilizar al menos cuatro espacios para distinguir elementos secundarios. Aquí tienes un ejemplo basado en las recomendaciones de Google (sin fecha):|
 |<img src="assets/5.9.png" alt="Timbrit" style="width:100%;">|
-
 
 |**`CSS`**|
 |-|
@@ -176,6 +175,7 @@ En el contexto de las pruebas, es aceptable ignorar una excepción detectada sin
 |JavaScript es uno de los lenguajes más populares y ha experimentado un rápido avance y mejora en los últimos años. A continuación, se presentan las pautas para utilizar JavaScript en nuestro proyecto:|
 |En TypeScript, se recomienda que las variables se declaren en minúsculas y se especifique el tipo de dato utilizando dos puntos después del nombre de la variable. Aquí tienes ejemplos de cómo declarar y asignar valores a variables en TypeScript:|
 |<img src="assets/7.6.png" alt="Timbrit" style="width:100%;">|
+
 ### 5.1.4. Software Deployment Configuration
 Como mencionamos previamente, la gestión de nuestro código fuente se realizará a través de GitHub. Además, para la publicación y despliegue de la página, aprovecharemos GitHub Pages.
 
@@ -197,8 +197,10 @@ En relación con el desarrollo de la página de inicio de TecHelp, hemos utiliza
 |**GitHub**|Plataforma de desarrollo colaborativo.|<img src="assets/github.jpg" alt="AyFix" style="width:100%;">|
 |**Git Flow**|Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page.|<img src="assets/flow.jpg" alt="Timbrit" style="width:100%;">|
 |**Git Hub Pages**|Servicio de Github que nos permitió alojar nuestra lading page.|<img src="assets/pages.jpg" alt="Helpers" style="width:100%;">|
+
 ## 5.2. Landing Page, Services & Applications Implementation
 En esta sección se describe el proceso seguido para la implementación, pruebas, documentación y despliegue de los componentes del proyecto: Landing Page, Web Services y Frontend Web Applications. El desarrollo se llevó a cabo siguiendo una metodología ágil, con iteraciones estructuradas en Sprints. A continuación, se presenta el desglose de actividades por Sprint.
+
 ### 5.2.1. Sprint 1
 En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implementación del diseño de nuestra Landing Page utilizando WebStorm como entorno de desarrollo. Esto implica que al concluir el Sprint, todas las secciones, ya sea Home, Services, Pricing, Testimonials o About Us, deben estar completadas.
 #### 5.2.1.1. Sprint Planning 1
@@ -270,6 +272,7 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
         </tr>
     </tbody>
 </table>
+
 #### 5.2.1.2. Sprint Backlog 1
 <table>
   <tr>
@@ -437,6 +440,7 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
     <td align="center"> Done</td>
   </tr>
 </table>
+
 #### 5.2.1.3. Development Evidence for Sprint Review
 <table>
   <tr>
@@ -474,8 +478,10 @@ En la fase inicial de nuestro proyecto, nos propusimos llevar a cabo la implemen
   </tr>
 
 </table>
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 En el Sprint 1, se completaron únicamente las características relacionadas con el sitio web estático, sin que se llevara a cabo la implementación de los Web Services.
+
 #### 5.2.1.5. Execution Evidence for Sprint Review
 A continuación, presentamos capturas de pantalla que muestran el progreso deL Landing Page:
 
@@ -515,6 +521,7 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 
 |**`LANDING PAGE DESPLEGADO`**|>|https://opensource-grupo4.github.io/LandingPageTechHelpG4.github.io/|
 |-----|----|----|
+
 #### 5.2.1.8. Team Collaboration Insights during Sprint
 En esta entrega, nuestra meta principal fue la implementación de la Landing Page. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados:
 

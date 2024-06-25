@@ -794,6 +794,9 @@ Durante el segundo sprint, hemos concebido, codificado y activado la página ini
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Para llevar a cabo la creación de nuestra página, decidimos emplear Firebase. Durante este proceso, se estableció un proyecto en Firebase y se conectó utilizando Angular Firebase. Para acceder a los datos, se requiere el archivo JSON localmente.
+|**`FRONT-END DESLPLEGADO`**|>|https://finaltechhelp.web.app/|
+|-----|----|----|
+
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 En esta entrega, nos enfocamos principalmente en implementar las funciones de solicitud y visualización de técnicos. Para lograr este objetivo, utilizamos varias herramientas, como GitHub, Visual Studio Code, WebStorm, HTML, CSS y JavaScript. A continuación, vamos a mostrar los diagramas de flujo que representan los commits efectuados por cada integrante del equipo.
 <img src="assets/SPRINT2.png" alt="Timbrit" style="width:100%;">

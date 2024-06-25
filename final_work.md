@@ -3,7 +3,8 @@
 
 # Video About-the-Team
 - **Link del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EVIqJXaeWaVDivyGAIsHs3EB5KaxoyKZOR4iyfGjoxlNTg?e=sW6Mfq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-<img src="assets/THE-TEAM.png" alt="Usuario" style="width:100%;">
+
+<img src="assets/THE-THEAM.png" alt="Usuario" style="width:100%;">
 
 # Bibliografía
 

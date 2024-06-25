@@ -1201,7 +1201,7 @@ En esta entrega, nuestra segunda meta fue la implementación total del frontend.
 
 En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por solo uno de los integrantes del equipo. Esta dinámica se verá reflejada en las siguientes imagenes debido a un error a lo hora de subir el trabajo, por lo que los nuesvos cambios se verán realizados solamente por el integrante Santiago Olivera.  
 
-![commits.png](assets/contribuidores_frontend.png)
+![commits.png](assets/contribuidores_front.png)
 
 En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestro FrontEnd, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
 

@@ -1304,10 +1304,10 @@ En esta imagen se muestra las ramas realizadas para el desarrollo del frontend d
 
 En el tercer sprint backlog, el equipo completó en un 80% el front end y un 70% del back end de la aplicación web. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio al equipo de desarrollo dividir las user stories que corresponden al sprint 4 en tareas y asignar al responsables.
 
-![Trello Sprint 4](https://trello.com/b/rb8PMTZW/techhelp-tasks)
 
 
-Link de Trello: 
+
+Link de Trello: https://trello.com/b/rb8PMTZW/techhelp-tasks
 
 <table>
     <thead>

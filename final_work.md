@@ -1,5 +1,17 @@
 # Conclusiones
 ## Conclusiones y recomendaciones
+1. **CONCLUSIONES:**
+- Un buen conocimiento y entendimiento sobre la arquitectura de los API REST ayuda al desarrollo de la backend
+- Se concluye que una buena elaboracion de los diagramas c4 ayuda mucho al desarrollo mas preciso de la backend
+- La elaboración final del sprint4, aun con complicaciones pudo desplegarse de manera exitosa.
+- Gracias al buen conocimiento adquirido y la buena comunicación grupal a lo largo del ciclo, se pudo desarrollar satisfactoriamente el proyecto.
+
+2. **RECOMENDACIONES:**
+> Babiloni, A. (8 de febrero de 2019). ¿Cómo es el servicio técnico de los fabricantes de móviles? Ponemos a prueba el soporte de Apple, Samsung, Xiaomi, LG, Sony y más. Xataka. Recuperado de: https://www.xataka.com/especiales/como-servicio-tecnico-fabricantes-moviles-ponemos-a-prueba-soporte-apple-samsung-xiaomi-lg-sony 
+
+> Claro Perú. (10 de agosto 2021). ¿Cómo puedo saber el estado de mi equipo en el Servicio Técnico? Comunidad Claro. Recuperado de: https://comunidad.claro.com.pe/t5/M%C3%B3vil/C%C3%B3mo-puedo-saber-el-estado-de-mi-equipo-en-el-Servicio-T%C3%A9cnico/m-p/69375#M33452 
+
+> DescoCaosTV (5 de enero de 2020). Pongo a prueba dos técnicos de celular [Archivo de video]. Recuperado de: https://youtu.be/Okmfu74-ebE [Consulta: 24 de Agosto de 2023]
 
 # Video About-the-Team
 - **Link del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EVIqJXaeWaVDivyGAIsHs3EB5KaxoyKZOR4iyfGjoxlNTg?e=sW6Mfq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D

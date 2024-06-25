@@ -7,11 +7,7 @@
 - Gracias al buen conocimiento adquirido y la buena comunicación grupal a lo largo del ciclo, se pudo desarrollar satisfactoriamente el proyecto.
 
 2. **RECOMENDACIONES:**
-> Babiloni, A. (8 de febrero de 2019). ¿Cómo es el servicio técnico de los fabricantes de móviles? Ponemos a prueba el soporte de Apple, Samsung, Xiaomi, LG, Sony y más. Xataka. Recuperado de: https://www.xataka.com/especiales/como-servicio-tecnico-fabricantes-moviles-ponemos-a-prueba-soporte-apple-samsung-xiaomi-lg-sony 
 
-> Claro Perú. (10 de agosto 2021). ¿Cómo puedo saber el estado de mi equipo en el Servicio Técnico? Comunidad Claro. Recuperado de: https://comunidad.claro.com.pe/t5/M%C3%B3vil/C%C3%B3mo-puedo-saber-el-estado-de-mi-equipo-en-el-Servicio-T%C3%A9cnico/m-p/69375#M33452 
-
-> DescoCaosTV (5 de enero de 2020). Pongo a prueba dos técnicos de celular [Archivo de video]. Recuperado de: https://youtu.be/Okmfu74-ebE [Consulta: 24 de Agosto de 2023]
 
 # Video About-the-Team
 - **Link del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EVIqJXaeWaVDivyGAIsHs3EB5KaxoyKZOR4iyfGjoxlNTg?e=sW6Mfq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
@@ -19,6 +15,11 @@
 <img src="assets/THE-THEAM.png" alt="Usuario" style="width:100%;">
 
 # Bibliografía
+> Babiloni, A. (8 de febrero de 2019). ¿Cómo es el servicio técnico de los fabricantes de móviles? Ponemos a prueba el soporte de Apple, Samsung, Xiaomi, LG, Sony y más. Xataka. Recuperado de: https://www.xataka.com/especiales/como-servicio-tecnico-fabricantes-moviles-ponemos-a-prueba-soporte-apple-samsung-xiaomi-lg-sony [Consulta: 05 de Junio de 2024]
+
+> Claro Perú. (10 de agosto 2021). ¿Cómo puedo saber el estado de mi equipo en el Servicio Técnico? Comunidad Claro. Recuperado de: https://comunidad.claro.com.pe/t5/M%C3%B3vil/C%C3%B3mo-puedo-saber-el-estado-de-mi-equipo-en-el-Servicio-T%C3%A9cnico/m-p/69375#M33452 [Consulta: 31 de Mayo de 2024]
+
+> DescoCaosTV (5 de enero de 2020). Pongo a prueba dos técnicos de celular [Archivo de video]. Recuperado de: https://youtu.be/Okmfu74-ebE [Consulta: 19 de Mayo de 2024]
 
 # Anexos
 - **Esposiciones Capítulo 2:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZTp1-pO-yBEuzwcpbw1UBgBQU1c4L9ECuThnbLOygbvvQ?e=F5Autf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D

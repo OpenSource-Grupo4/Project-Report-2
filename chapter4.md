@@ -285,80 +285,71 @@ En esta sección se mostrará los WireFlows, desarrollados en LucidChart, estos 
 
 ### 4.4.3. Web Applications Mock-ups
 
-En esta seccion se mostrara el desarrollo final de los Mock-ups de la Web Application, que es una representacion de mediana o alta fidelidad teniendo en cuenta los Style Guidelines . [Link](https://www.figma.com/design/VmYMujZZJwXnC90bMDYoLZ/Open-Source-Gupo-4-(actualizado)?node-id=6-2&t=4EVf9l5V84Zp6FJZ-1)
-|__Interfaz para nuevos usuarios y antiguos usuarios__|
+En esta seccion se mostrara el desarrollo final de los Mock-ups de la Web Application, que es una representacion de mediana o alta fidelidad teniendo en cuenta los Style Guidelines . 
+- Link: https://www.figma.com/design/VmYMujZZJwXnC90bMDYoLZ/Open-Source-Gupo-4-(actualizado)?node-id=6-2&t=4EVf9l5V84Zp6FJZ-1
+
+|**`INTERFAZ PARA NUEVOS USUARIOS Y ANTIGUOS USUARIOS`**|
 |---|
 |En estos wireframes se muestra el inicio de sesion y registro que fueron desarrollados con la tipografia y tamaño establecido en la documentacion.|
-|![LoginUsuarioMockup](assets/LoginUsuarioMockup.png)|
-
-|__Interfaz de Personas__|
-|---|
+|<img src="assets/LoginUsuarioMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`INTERFAZ DE PERSONAS`**|
 |En esta seccion se muestra las paginas de "Home" para el cliente donde se puede ver el progreso,tecnicos y se vera algunas reparaciones que se estan llevando acabo o ya finalizaron. La siguiente pagina "Tecnicos "mostrara a los tecnicos cercanos,donde ademas podemos filtrarlos y buscar por nombre.En la pagina "Progreso" se mostrara el estado de la reparacion que sera representada por un grafico. La pagina "Favorita" mostrara los tecnicos guardados como favoritos por el usuario y  el "Inbox" se podra ver notificaciones de aceptacion de reparacion de los tecnicos ademas de brindar al usuario el contacto con el tecnico.|
-|![InterfazHomeClienteMockup](assets/InterfazHomeClienteMockup.jpg)|
-|![InterfazTechnicalClienteMockup](assets/InterfazTechnicalClienteMockup.jpg)|
-|![InterfazProgressClienteMockup](assets/InterfazProgressClienteMockup.jpg)|
-|![InterfazInboxClienteMockup](assets/InterfazInboxClienteMockup.jpg)|
-
-|__Pedir una reparacion al tecnico__|
-|---|
+|<img src="assets/InterfazHomeClienteMockup.jpg" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/InterfazTechnicalClienteMockup.jpg" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/InterfazProgressClienteMockup.jpg" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/InterfazInboxClienteMockup.jpg" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`PEDIR UNA REPARACION AL TECNICO`**|
 |En esta seccion se puede ver la forma que al momento de pedir una reparacion a un tecnico determinado escogido de la pagina "Tecnicos".|
-|![BuscarTecnicoUsuarioMockup](assets/BuscarTecnicoUsuarioMockup.png)|
-
-|__Interfaz de Tecnico__|
-|---|
+|<img src="assets/BuscarTecnicoUsuarioMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`INTERFAZ DE TECNICO`**|
 |En esta seccion se muestra las paginas de "Home" que muestra un resumen de tareas,dashboard y peticiones recientes.El "DashBoard" que es exclusivo para los tecnicos. La pagina "Peticion" que permite mostrar al tecnico las peticiones de reparacion.El "perfil" que permitira administar al tecnico su propia informacion, comprar membresia o cancelarla y el "Task" que permite al tecnico visualizar las tareas aceptadas y en proceso.|
-|![InterfazHomeTecnicoMockup](assets/InterfazHomeTecnicoMockup.jpg)|
-|![InterfazProfileTecnicoMockup](assets/InterfazProfileTecnicoMockup.jpg)|
-|![InterfazTaskTecnicoMockup](assets/InterfazTaskTecnicoMockup.jpg)|
-|![InterfazDashboardTecnicoMockup](assets/InterfazDashboardTecnicoMockup.jpg)|
-|![InterfazHomePetitionMockup](assets/InterfazHomePetitionMockup.jpg)|
-
-|__Conseguir o Cancelar Membresia__|
-|---|
+|<img src="assets/InterfazHomeTecnicoMockup.jpg" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/InterfazProfileTecnicoMockup.jpg" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/InterfazTaskTecnicoMockup.jpg" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/InterfazDashboardTecnicoMockup.jpg" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/InterfazDashboardTecnicoMockup.jpg" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/InterfazHomePetitionMockup.jpg" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`CONSEGUIR O CANCELAR MEMBRESIA`**|
 |En esta seccion se muestra la compra de una membresia mostrando los beneficios de esta,para luego de aceptar mostrara el formulario para rellenar la tarjeta de credito o debito.Ademas de mostrar una ventana emerfente que muestre la finalizacion correcta y regrese al inicio.|
-|![SeleccionBeamemberTecnicoMockup](assets/SeleccionBeamemberTecnicoMockup.png)|
-
-|__Agregar una nueva tarea__|
-|---|
+|<img src="assets/SeleccionBeamemberTecnicoMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`AGREGAR UNA NUEVA TAREA`**|
 |En esta seccion se mostrará la forma de agregar una nueva tarea al apartado "task", en el proceso podra usar su inventario de componentes previamente establecidos por usted.|
-|![CrearNuevoTaskTecnicoMockup](assets/CrearNuevoTaskTecnicoMockup.png)|
-|![IncluirComponentesTecnicoMockup](assets/IncluirComponentesTecnicoMockup.png)|
-|![RetornarHomeTecnicoTaskMockup](assets/RetornarHomeTecnicoTaskMockup.png)|
-
-|__Inventario__|
-|---|
+|<img src="assets/CrearNuevoTaskTecnicoMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/IncluirComponentesTecnicoMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/RetornarHomeTecnicoTaskMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/BARRA-SEPARADORA.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**`INVENTARIO`**|
 |En esta seccion se muestra el menu del inventario donde se podra agregar componentes para la reparacion de los equipos ademas de poder mostrar los costos a los clientes de una formas mas rapida.|
-|![CrearNuevoInventoryTecnicoMockup](assets/CrearNuevoInventoryTecnicoMockup.png)|
-|![AgregarComponentesTecnicoMockup](assets/AgregarComponentesTecnicoMockup.png)|
-
+|<img src="assets/CrearNuevoInventoryTecnicoMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/AgregarComponentesTecnicoMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
-**Cliente**
 
-|__Añadir Tecnico a Lista de Favoritos __|
-|---|
+|**`CLIENTE`**|
+|**Añadir Tecnico a Lista de Favoritos**|
 |En esta seccion, el usuario cliente podrá ver los Tecnicos detalladamente de la sección "Tecnicos".|
-|![VerTecnicoDetalle](assets/ver_tecnico.png)|
+|<img src="assets/ver_tecnico.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/AgregarComponentesTecnicoMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
 
-
-**Técnico**
-
-|__Ver Dashboard __|
-|---|
+|**`TÉCNICO`**|
+|**Ver Dashboard**|
 |En esta seccion, el usuario técnico podrá ver las funcionalidades premium  de la sección "DashBoard".|
-|![VerTecnicoDetalle](assets/dash_estad.png)|
-
-|__Modificar Perfil __|
-|---|
+|<img src="assets/dash_estad.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/AgregarComponentesTecnicoMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**Modificar Perfil**|
 |En esta seccion, el usuario técnico podrá ver las modificar su perfil desde la sección "My Profile", en el botón "Update Profile".|
-|![VerTecnicoDetalle](assets/modificar_perfil.png)|
-
-|__Obtener Membresía__|
-|---|
+|<img src="assets/modificar_perfil.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/AgregarComponentesTecnicoMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
+|**Obtener Membresía**|
 |En esta seccion, el usuario técnico podrá adquirir una membresía premium  de la sección "My Profile", con el botón "Get a Plan".|
-|![VerTecnicoDetalle](assets/obtener_membresia.png)|
-
+|<img src="assets/obtener_membresia.png" alt="BARRA SEPARADORA" style="width:100%">|
+|<img src="assets/AgregarComponentesTecnicoMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
 
 ## 4.5. Web Applications Prototyping
 En esta seccion se mostrara el prototipo de la aplicacion web desarrollado en figma siguiendo los estilos establecidos en los anteriores puntos.

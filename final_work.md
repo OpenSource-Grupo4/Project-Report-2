@@ -1,5 +1,13 @@
 # Conclusiones
 ## Conclusiones y recomendaciones
+
+# Video About-the-Team
+- **Link del video:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EVIqJXaeWaVDivyGAIsHs3EB5KaxoyKZOR4iyfGjoxlNTg?e=sW6Mfq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+<img src="assets/THE-TEAM.png" alt="Usuario" style="width:100%;">
+
+# Bibliografía
+
+# Anexos
 - **Esposiciones Capítulo 2:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZTp1-pO-yBEuzwcpbw1UBgBQU1c4L9ECuThnbLOygbvvQ?e=F5Autf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Link del Wireframe - (4.3.1. Landing Page Wireframe):** https://www.figma.com/file/qEeQfR7TgOm7D6NDDUFuTL/Open-Source-Gupo-4?type=design&node-id=6%3A2&mode=design&t=dlRqpuWuys2rDtd5-1
 - **Link del Mockup - (4.3.2. Landing Page Mock-up):** https://www.figma.com/file/qEeQfR7TgOm7D6NDDUFuTL/Open-Source-Gupo-4?type=design&node-id=6%3A2&mode=design&t=dlRqpuWuys2rDtd5-1
@@ -16,8 +24,3 @@
 - **LANDING PAGE DESLPLEGADO:** https://opensource-grupo4.github.io/LandingPageTechHelpG4.github.io/
 - **FRONT-END DESLPLEGADO:** https://finaltechhelp.web.app/
 - **ABOUT-THE-PRODUCT:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXkra-WHHpNBrWiD5hciA_sBRZO2OW_ZnWNupxCMc-8n-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CwnWmh
-# Video About-the-Team
-
-# Bibliografía
-
-# Anexos

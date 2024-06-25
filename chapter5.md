@@ -1406,6 +1406,23 @@ En esta imagen se muestra las ramas realizadas para el desarrollo del frontend d
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 
+__Backend__
+En esta entrega, nuestra meta principal fue la implementación parcial del backend. Para llevar a cabo este objetivo, hicimos uso de diversas herramientas como GitHub, intellij y java. A continuación, vamos a presentar los diagramas de flujo que representan los commits realizados por cada miembro del equipo:
+
+![commits-colaboration.png](assets/barras_back.png)
+
+En la imagen se evidencia el gráfico de barras de la cantidad de commits realizadas por cada uno de los integrantes del equipo.
+
+![commits.png](assets/contributors.png)
+
+En esta imagen, se ofrece una representación visual de las fechas en las que se llevaron a cabo cambios en el repositorio de nuestra Landing Page, junto con la cantidad de modificaciones realizadas en cada uno de los commits. Esta representación gráfica es una herramienta valiosa para comprender la evolución temporal del proyecto y la intensidad del desarrollo a lo largo del tiempo.
+
+
+![network.png](assets/net.png)
+En esta imagen se muestra las ramas realizadas para el desarrollo del backend de nuestra app web.Siendo una muestra del desarrollo de esta.
+
+
+
 --------------
 
 

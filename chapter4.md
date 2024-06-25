@@ -332,12 +332,14 @@ En esta seccion se mostrara el desarrollo final de los Mock-ups de la Web Applic
 
 
 |**`CLIENTE`**|
+|---|
 |**Añadir Tecnico a Lista de Favoritos**|
 |En esta seccion, el usuario cliente podrá ver los Tecnicos detalladamente de la sección "Tecnicos".|
 |<img src="assets/ver_tecnico.png" alt="BARRA SEPARADORA" style="width:100%">|
 |<img src="assets/AgregarComponentesTecnicoMockup.png" alt="BARRA SEPARADORA" style="width:100%">|
 
 |**`TÉCNICO`**|
+|---|
 |**Ver Dashboard**|
 |En esta seccion, el usuario técnico podrá ver las funcionalidades premium  de la sección "DashBoard".|
 |<img src="assets/dash_estad.png" alt="BARRA SEPARADORA" style="width:100%">|

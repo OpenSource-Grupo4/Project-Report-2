@@ -1302,107 +1302,133 @@ En esta imagen se muestra las ramas realizadas para el desarrollo del frontend d
 
 #### 5.2.4.2. Sprint Backlog 4
 
+En el tercer sprint backlog, el equipo completó en un 80% el front end y un 70% del back end de la aplicación web. La herramienta utilizada para organizar y gestionar a los miembros del equipo fue Trello. Esta herramienta permitio al equipo de desarrollo dividir las user stories que corresponden al sprint 4 en tareas y asignar al responsables.
 
+![Trello Sprint 4](https://trello.com/b/rb8PMTZW/techhelp-tasks)
+
+
+Link de Trello: 
 
 <table>
-  <tr>
-    <td> <strong>Sprint #</strong></td>
-    <td align="center" colspan="7"> <strong>Sprint 4</strong> </td>
-  </tr>
+    <thead>
+  <>
+    <tr>
+        <th>Sprint #</th>
+        <th colspan="7">Sprint 4</th>
+    </tr>
+    <tr>
+      <th colspan="2">Technical User Story</th>
+      <th colspan="6">WorkItem / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status(To-do/In-Process/To-Review/Done)</th>
+    </tr>
+    <tr>
+            <td rowspan="3">UH01</td>
+            <td rowspan="3">Administrar inventario</td>
+            <td>TA01</td>
+            <td>Implementación del backend</td>
+            <td>Se implementara en el backend el bounded context Inventory </td>
+            <td> 5</td>
+            <td> Lorenzo Navarro </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA02</td>
+            <td>Implementcion del Frontend</td>
+            <td>Se implementara en el frontend el bounded context inventory</td>
+            <td> 5h</td>
+            <td> Santiago Olivera </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA03</td>
+            <td>Uso de Api externar</td>
+            <td>Integraciaon de la backend con el frontend</td>
+            <td>2h</td>
+            <td> Alexis Vargas </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="2">UH03</td>
+            <td rowspan="2">Registro de la aplicación</td>
+            <td>TA04</td>
+            <td>Implementación del backend</td>
+            <td>Se implementara en el backend el bounded context Inventory</td>
+            <td> 5h</td>
+            <td>Lorenzo Navarro </td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TA05</td>
+           <td>Implementacion del Frotnend</td>
+            <td>Se implementara el bounded context en el backend</td>
+            <td> 4h</td>
+            <td> Santiago Olivera </td>
+            <td>Done</td>
+        </tr>
 
-   <tr>
-    <td align="center" colspan="2"> <strong>User Story</strong></td>
-    <td align="center" colspan="6"> <strong>Work-item/Task</strong></td>
-  </tr>
-  <tr>
-    <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>ID</strong> </td>
-    <td align="center"> <strong>Title<strong></td>
-    <td align="center"> <strong>Description<strong></td>
-    <td align="center"> <strong>Estimation (Hours)<strong></td>
-    <td align="center"> <strong>Assigned To<strong></td>
-    <td align="center"> <strong> Status (To-do/In-Process/To-Review/Done)  <strong></td>
-  </tr>
-  <!---------------------------------------------------------------------- -->
-  <tr>
-    <td rowspan="4" align="center"> ID </td>
-    <td rowspan="4" align="center"> US13 Update Profile </td>
-    <td align="center"> TA01 </td>
-    <td align="center"> ... </td>
-    <td align="center"> ... </td>
-    <td align="center"> 2 </td>
-    <td align="center"> Santiago Olivera</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA02 </td>
-    <td align="center"> ... </td>
-    <td align="center"> ... </td>
-    <td align="center"> 2</td>
-    <td align="center"> Raúl Quispe</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA03 </td>
-    <td align="center"> ... </td>
-    <td align="center"> ... </td>
-    <td align="center"> 5</td>
-    <td align="center"> Santiago Olivera</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA04 </td>
-    <td align="center"> ... </td>
-    <td align="center"> ... </td>
-    <td align="center"> 2</td>
-    <td align="center"> Lorenzo Navarro</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
-    <td rowspan="3" align="center"> ID </td>
-    <td rowspan="3" align="center"> US14 Support Page</td>
-    <td align="center"> TA01 </td>
-    <td align="center"> ... </td>
-    <td align="center"> ... </td>
-    <td align="center"> 1</td>
-    <td align="center"> Manuel Vargas</td>
-    <td align="center">Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA02 </td>
-    <td align="center"> ... </td>
-    <td align="center"> ... </td>
-    <td align="center"> 2</td>
-    <td align="center"> Santiago Guerra</td>
-    <td align="center"> Done</td>
-  </tr>
-
-  <tr>
-    <td align="center"> TA03 </td>
-    <td align="center"> ...</td>
-    <td align="center"> ... </td>
-    <td align="center"> 1</td>
-    <td align="center"> Lorenzo Navarro</td>
-    <td align="center"> Done</td>
-  </tr>
-
-</table>
 
 #### 5.2.4.3. Development Evidence for Sprint Review
 
+* Evidencias del BackEnd:
+<br>
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="41" align="center"> https://github.com/OpenSource-Grupo4/techhelp-backend </td>
+    <td align="center"> main</td>
+    <td align="center"> -</td>
+    <td align="center"> chore: initial commit</td>
+    <td align="center"> ---</td>
+    <td align="center"> --/--/2024</td>
+  </tr>
+
+  </table>
+  
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review
 
+Para este cuarto  sprint se ha desplegado la siguientes secciones en nuestra aplicacion web.
+
+La implementacion de ambas vistas tanto para el usuario como del tecnico.
+
+![commits.png](assets/dashboard.jpg)
+
+![commits.png](assets/dashboardTh.jpg)
+
 #### 5.2.4.5. Execution Evidence for Sprint Review
+Para este cuarto sprint se ha desplegado la siguientes secciones en nuestra aplicacion web.
+![commits.png](assets/Swagger1.png)
+![commits.png](assets/Swagger2.png)
+
+La implementacion de ambas vistas tanto para el usuario como del tecnico
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
+En este Sprint se tomó importancia la parte de la seguridad, es por ello que se implementaron los siguientes Endpoints para la lógica de autentificación.
+
+![commits.png](assets/Swagger1.png)
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Deployamos el Backend via Docker para el uso de la API REST de TecHelp
+![commits.png](assets/evidencia1.png)
+![commits.png](assets/evidencia_docker.png)
+Link del Api desplegada: https://3.86.138.123/swagger-ui/index.html
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
 

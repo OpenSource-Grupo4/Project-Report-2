@@ -48,7 +48,6 @@
 > DescoCaosTV (5 de enero de 2020). Pongo a prueba dos técnicos de celular [Archivo de video]. Recuperado de: https://youtu.be/Okmfu74-ebE [Consulta: 19 de Mayo de 2024]
 
 # Anexos
-- **Esposiciones Capítulo 2:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZTp1-pO-yBEuzwcpbw1UBgBQU1c4L9ECuThnbLOygbvvQ?e=F5Autf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 - **Link del Wireframe - (4.3.1. Landing Page Wireframe):** https://www.figma.com/file/qEeQfR7TgOm7D6NDDUFuTL/Open-Source-Gupo-4?type=design&node-id=6%3A2&mode=design&t=dlRqpuWuys2rDtd5-1
 - **Link del Mockup - (4.3.2. Landing Page Mock-up):** https://www.figma.com/file/qEeQfR7TgOm7D6NDDUFuTL/Open-Source-Gupo-4?type=design&node-id=6%3A2&mode=design&t=dlRqpuWuys2rDtd5-1
 - **Link Wireframes - (4.4.1. Web Applications Wireframes):** https://www.figma.com/file/qEeQfR7TgOm7D6NDDUFuTL/Open-Source-Gupo-4?type=design&node-id=6%3A2&mode=design&t=dlRqpuWuys2rDtd5-1
@@ -63,4 +62,11 @@
 - **URL del repositorio del BackEnd:** https://github.com/OpenSource-Grupo4/techhelp-backend
 - **LANDING PAGE DESLPLEGADO:** https://opensource-grupo4.github.io/LandingPageTechHelpG4.github.io/
 - **FRONT-END DESLPLEGADO:** https://finaltechhelp.web.app/
+
+
+
+- **NEEDFINDING INTERVIEWS:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZTp1-pO-yBEuzwcpbw1UBgBQU1c4L9ECuThnbLOygbvvQ?e=F5Autf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+- **PROTOTYPES NAVIGATION/PRODUCT NAVIGATION:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EV8OjlszK8ZPg4PFh7C15okB7I3HJ3AIKUiiyILWv8usrg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=9HavN6
+- **VALIDATION INTERVIEWS:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EQJTRnb2czBIgPmpCsJFZqYBELOAcas9s0PgKHzUOgeeFA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=uh2uXi
 - **ABOUT-THE-PRODUCT:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXkra-WHHpNBrWiD5hciA_sBRZO2OW_ZnWNupxCMc-8n-A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=CwnWmh
+- **ABOUT THE TEAM:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EVIqJXaeWaVDivyGAIsHs3EB5KaxoyKZOR4iyfGjoxlNTg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=qipeh8

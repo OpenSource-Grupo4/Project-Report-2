@@ -334,6 +334,32 @@ En esta seccion se mostrara el desarrollo final de los Mock-ups de la Web Applic
 
 ### 4.4.4. Web Applications User Flow Diagrams
 
+**Cliente**
+
+|__Añadir Tecnico a Lista de Favoritos __|
+|---|
+|En esta seccion, el usuario cliente podrá ver los Tecnicos detalladamente de la sección "Tecnicos".|
+|![VerTecnicoDetalle](assets/ver_tecnico.png)|
+
+
+**Técnico**
+
+|__Ver Dashboard __|
+|---|
+|En esta seccion, el usuario técnico podrá ver las funcionalidades premium  de la sección "DashBoard".|
+|![VerTecnicoDetalle](assets/dash_estad.png)|
+
+|__Modificar Perfil __|
+|---|
+|En esta seccion, el usuario técnico podrá ver las modificar su perfil desde la sección "My Profile", en el botón "Update Profile".|
+|![VerTecnicoDetalle](assets/modificar_perfil.png)|
+
+|__Obtener Membresía__|
+|---|
+|En esta seccion, el usuario técnico podrá adquirir una membresía premium  de la sección "My Profile", con el botón "Get a Plan".|
+|![VerTecnicoDetalle](assets/obtener_membresia.png)|
+
+
 ## 4.5. Web Applications Prototyping
 En esta seccion se mostrara el prototipo de la aplicacion web desarrollado en figma siguiendo los estilos establecidos en los anteriores puntos.
 - **Link: Visualizar Prototipo en Figma:** https://www.figma.com/proto/9U0r61ZoDHjQf7Ck7zotUL/Prototype-TecHelp-APP?type=design&node-id=1-3234&t=HruT40GoBdMnazGq-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3234&show-proto-sidebar=1&mode=design
